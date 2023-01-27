@@ -14,7 +14,7 @@ Just edit elements in ``contents/members.js``. In addition, since every member h
 Suppose we are going to adding a new postgraduate student named "Aris", whose year of attendence is 2023 and his research is about image recogonation.
 
 First, upload his photo to "photos/" folder, let the filename be "xx.png" (of course, "Aris.png" is more suggested).
-Notice: 'xx.png' is better not to be too large, otherwise it will load slowly. <100KB is recommended.
+Notice: "xx.png" is better not to be too large, otherwise it will load slowly. <100KB is recommended.
 
 Then, open up "contents/members.js", you will get a variable named *members*. Find the key of "Student":
 ```javascript
@@ -72,7 +72,7 @@ news = [
     {
         'title':'New homepage of our I2ML is published online!',
         'date':'2023-01-25',
-        'newbrand':true,
+        'newbrand':false,
         'content':'Publishing content from a website can be accomplished simply by manipulating dictionary objects! See our GitHub for details on the source code and how to use it!😄',
     },
     // etc...
