@@ -33,7 +33,7 @@ members = {
         },
         {
             "name":"Chenyi Zhuang",
-            "photoUrl":"./photos/Chenyi Zhuang.jpg",
+            "photoUrl":"./photos/chenyi zhuang.jpg",
             "introduction":"Research Area: Text-to-Image Synthesis and Few-shot Learning.",
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2022"
