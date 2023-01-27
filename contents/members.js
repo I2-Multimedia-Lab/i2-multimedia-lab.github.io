@@ -18,76 +18,104 @@ members = {
     ],
     "Student":[
         {
+            "name":"Ying Hu",
+            "photoUrl":"./photos/Ying Hu.jpg",
+            "introduction":"Research Area: Image Style Transfer and Deep Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2022"
+        },
+        {
+            "name":"Kai Liu",
+            "photoUrl":"./photos/Kai Liu.jpg",
+            "introduction":"Research Area: Transformer-based Point Cloud Compression.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2022"
+        },
+        {
+            "name":"Chenyi Zhuang",
+            "photoUrl":"./photos/Chenyi Zhuang.jpg",
+            "introduction":"Research Area: Text-to-Image Synthesis and Few-shot Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2022"
+        },
+        {
+            "name":"Qingguo Liu",
+            "photoUrl":"./photos/Qingguo Liu.jpg",
+            "introduction":"Research Area: Image Superresolution and Contrastive Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2022"
+        },
+        {
             "name":"Yao Yuan",
             "photoUrl":"./photos/Yao Yuan.jpg",
-            "introduction":"Research area: Obvious object recognition.",
-            "footnote":"Postgraduate Student",
-            "footnote2":"Year of attendance: 2022"
+            "introduction":"Research Area: Salient Object Detection and Saliency Prediction.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2022"
         },
         {
             "name":"Shanshan Li",
             "photoUrl":"./photos/Shanshan Li.jpg",
-            "introduction":"Research area: Reinforcement Learning in 3D Point Cloud.",
-            "footnote":"Postgraduate Student",
-            "footnote2":"Year of attendance: 2021"
+            "introduction":"Research Area: Reinforcement Learning in 3D Point Cloud.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2021"
         },
         {
             "name":"Zihao Li",
             "photoUrl":"./photos/Zihao Li.jpg",
-            "introduction":"Research area: Classification and segmentation of 3D point cloud objects.",
-            "footnote":"Postgraduate Student",
-            "footnote2":"Year of attendance: 2021"
+            "introduction":"Research Area: Classification and Segmentation of 3D point Cloud Objects.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2021"
         },
         {
             "name":"Jinsong Shi",
             "photoUrl":"./photos/Jinsong Shi.jpg",
-            "introduction":"Research area: Image quality assement Deep learning.",
-            "footnote":"Postgraduate Student",
-            "footnote2":"Year of attendance: 2021"
+            "introduction":"Research Area: Image Quality Assement with Deep Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2021"
         },
         {
             "name":"Haoyue Tian",
             "photoUrl":"./photos/Haoyue Tian.jpg",
-            "introduction":"Research area: Video compression encoding with deep learning.",
-            "footnote":"Postgraduate Student",
-            "footnote2":"Year of attendance: 2020"
+            "introduction":"Research Area: Video Compression Encoding with Deep Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2020"
         },
         {
             "name":"Kang You",
             "photoUrl":"./photos/Kang You.jpg",
-            "introduction":"Research area: Lossy point cloud geometry compression using deep learning.",
-            "footnote":"Postgraduate Student",
-            "footnote2":"Year of attendance: 2020"
+            "introduction":"Research Area: Lossy Point Cloud Geometry Compression using Deep Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2020"
         },
     ],
     "Alumni":[
         {
             "name":"Cheng Zhang",
             "photoUrl":"./photos/Cheng Zhang.jpg",
-            "introduction":"Research area: Adversarial Machine Learning.",
-            "footnote":"Master's degree",
-            "footnote2":"Year of graduation: 2022"
+            "introduction":"Research Area: Adversarial Machine Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2022"
         },
         {
             "name":"Xinlang Chen",
             "photoUrl":"./photos/Xinlang Chen.jpg",
-            "introduction":"Research area: Visual saliency prediction on 360 images, deep learning.",
-            "footnote":"Master's degree",
-            "footnote2":"Year of graduation: 2022"
+            "introduction":"Research Area: Visual Saliency Prediction on 360 Images and Deep Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2022"
         },
         {
             "name":"Tiantian Zhu",
             "photoUrl":"./photos/Tiantian Zhu.jpg",
-            "introduction":"Research area: View Synthesis and Dis-occlusion Filling.",
-            "footnote":"Master's degree",
-            "footnote2":"Year of graduation: 2021"
+            "introduction":"Research Area: View Synthesis and Dis-occlusion Filling.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2021"
         },
         {
             "name":"Pengwei Zhang",
             "photoUrl":"./photos/Pengwei Zhang.jpg",
-            "introduction":"Research area: Quality Assessment for Omnidirectional Video/Image.",
-            "footnote":"Master's degree",
-            "footnote2":"Year of graduation: 2021"
+            "introduction":"Research Area: Quality Assessment for Omnidirectional Video/Image.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2021"
         }
     ]
 }
