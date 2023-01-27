@@ -1,0 +1,43 @@
+.spanborder .tabswitcher{
+    cursor: pointer;
+    user-select:none;
+    border-bottom-color: white;
+    color: #ccc;
+    margin-bottom: 0;
+}
+
+.spanborder .tabswitcher.active{
+    color: inherit;
+    border-bottom-color: rgba(0, 0, 0, 0.44);
+}
+
+.spanborder .tabswitcher:hover{
+    color: inherit;
+    border-bottom-color: rgba(0, 0, 0, 0.44);
+}
+
+.tab{
+    display: none;
+}
+
+.tab.active{
+    display: block;
+}
+
+div.avatarimg{
+    display:inline-block;
+    width:0px;
+    height:120px;
+    padding:0 45px 0 45px;
+    background-size: cover;
+    background-position:center;
+}
+
+div.newsimg{
+    display:inline-block;
+    width:0px;
+    height:60px;
+    padding:0 40px 0 40px;
+    background-size: cover;
+    background-position:center;
+}
