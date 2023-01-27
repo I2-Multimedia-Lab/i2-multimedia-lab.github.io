@@ -1,16 +1,21 @@
 # I2ML Homepage
 
 A simple lab webpage without any backstage or database!
+
 Responsive for all devices including computer, phone and pad!
 
 Contents of the page (i.e., members, news and publications) can be easily updated by editing the dictionary files!
+
 By **fork -> edit elements of dict file -> pull**, everyone can easily edit the contents!
 
 ## Guidance for Update Members
 Just edit elements in ``contents/members.js``. In addition, since every member has a corresponding photo, you may need upload a photo to ``photos/`` folder.
 ##### Example of adding a new student member:
 Suppose we are going to adding a new postgraduate student named "Aris", whose year of attendence is 2023 and his research is about image recogonation.
+
 First, upload his photo to "photos/" folder, let the filename be "xx.png" (of course, "Aris.png" is more suggested).
+Notice: "xx.png" is better not to be too large, otherwise it will load slowly. <100KB is recommended.
+
 Then, open up "contents/members.js", you will get a variable named *members*. Find the key of "Student":
 ```javascript
 members = {
@@ -53,19 +58,21 @@ members = {
 }
 ```
 Done! Every one will see Aris in the index page and member page!
+
 Similarly, delete or edit the members in I2ML just need to delete or edit the corresponding elements of this file!
 
 ## Guidance for Update News
 Just edit elements in ``contents/news.js``.
 ##### Example of adding a new news:
 Suppose we are going to adding a new news titled "Our paper accepted by CVPR!" with a content of "Congrats content." in 2023-01-01.
+
 First, open up "contents/news.js", you will get a variable named *news*.
 ```javascript
 news = [
     {
         'title':'New homepage of our I2ML is published online!',
         'date':'2023-01-25',
-        'newbrand':true,
+        'newbrand':false,
         'content':'Publishing content from a website can be accomplished simply by manipulating dictionary objects! See our GitHub for details on the source code and how to use it!😄',
     },
     // etc...
@@ -90,12 +97,14 @@ news = [
 }
 ```
 Done! Every one will see this news in the index page and news page!
+
 Similarly, delete or edit the news in I2ML just need to delete or edit the corresponding elements of this file! Faculty members and Alumi members are in the same way.
 
 ## Guidance for Update Publications
 Just edit elements in ``contents/publications.js``.
 ##### Example of adding a new publication:
 Suppose we are going to adding a new publication titled "Aris, I2ML is all you need, CVPR, 2023." with paperlink of "https://ieeexplore.ieee.org/abstract/document/0000000/".
+
 First, open up "contents/publications.js", you will get a variable named *publications*:
 ```javascript
 publications = [
@@ -130,6 +139,7 @@ publications = [
 ]
 ```
 Done! Every one will see this publication in the index page and publication page!
+
 Similarly, delete or edit the publication in I2ML just need to delete or edit the corresponding elements of this file!
 
 ## File Organization
@@ -146,7 +156,7 @@ project/
     |       ├── members.js      // 成员列表变量
     |       ├── news.js         // 新闻列表变量
     |       └── publications.js // 成果列表变量
-    ├── photos/
+    ├── photos/             // 照片
     ├── article.html        // 新闻详情页
     ├── index.html          // 主页（包含部分成员、新闻及成果）
     ├── members.html        // 成员列表页
@@ -157,5 +167,7 @@ project/
 
 ## Thanks
 This project is build upon Mundana, a free HTML bootstrap blogging template by [Sal](https://www.wowthemes.net).
+
 Also, thanks to the great efforts of: [Bootstrap](https://github.com/twbs/bootstrap), [Gulp](https://gulpjs.com/) and [SASS](https://sass-lang.com/).
+
 Thank you for your support!
