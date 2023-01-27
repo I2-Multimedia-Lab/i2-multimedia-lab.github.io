@@ -24,9 +24,9 @@ members = {
         {
             "name":"Kang You",
             "photoUrl":"./photos/Kang You.jpg",
-            "introduction":"Research area: Lossy point cloud geometry compression using deep learning.",
-            "footnote":"Postgraduate Student",
-            "footnote2":"Year of attendance: 2020"
+            "introduction":"Research Area: Lossy Point Cloud Geometry Compression using Deep Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2020"
         },
         // etc...
     ],
@@ -41,16 +41,16 @@ members = {
         {
             "name":"Aris",
             "photoUrl":"./photos/xx.jpg",
-            "introduction":"Research area: Image recogonation.",
-            "footnote":"Postgraduate Student",
-            "footnote2":"Year of attendance: 2023"
+            "introduction":"Research Area: Image Recogonation.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2023"
         }, // don't forget this comma
         {
             "name":"Kang You",
             "photoUrl":"./photos/Kang You.jpg",
-            "introduction":"Research area: Lossy point cloud geometry compression using deep learning.",
-            "footnote":"Postgraduate Student",
-            "footnote2":"Year of attendance: 2020"
+            "introduction":"Research Area: Lossy Point Cloud Geometry Compression using Deep Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2020"
         },
         // etc...
     ],
