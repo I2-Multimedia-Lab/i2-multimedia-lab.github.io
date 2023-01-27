@@ -1,6 +1,8 @@
 # I2ML Homepage
 
-A simple lab webpage without any backstage or database.
+A simple lab webpage without any backstage or database!
+Responsive for all devices including computer, phone and pad!
+
 Contents of the page (i.e., members, news and publications) can be easily updated by editing the dictionary files!
 By **fork -> edit elements of dict file -> pull**, everyone can easily edit the contents!
 
