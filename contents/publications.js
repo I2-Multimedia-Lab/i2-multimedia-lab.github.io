@@ -65,7 +65,7 @@ publications = [
     },
     {
         'title':'P. Gao, P. Zhang and A. Smolic, "Quality Assessment for Omnidirectional Video: A Spatio-Temporal Distortion Modeling Approach," in IEEE Transactions on Multimedia, vol. 24, pp. 1-16, 2022.',
-        'year':2022,
+        'year':2020,
         'paperlink':'https://ieeexplore.ieee.org/abstract/document/9296376',
         'arxivlink':'',
         'codelink':'https://github.com/I2-Multimedia-Lab/360-video-experimental-platform',
