@@ -18,6 +18,13 @@ members = {
     ],
     "Student":[
         {
+            "name":"Qingguo Liu",
+            "photoUrl":"./photos/Qingguo Liu.jpg",
+            "introduction":"Research area: Image-super resolution.",
+            "footnote":"Postgraduate Student",
+            "footnote2":"Year of attendance: 2022"
+        },
+        {
             "name":"Yao Yuan",
             "photoUrl":"./photos/Yao Yuan.jpg",
             "introduction":"Research area: Obvious object recognition.",
