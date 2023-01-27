@@ -14,6 +14,7 @@ Just edit elements in ``contents/members.js``. In addition, since every member h
 Suppose we are going to adding a new postgraduate student named "Aris", whose year of attendence is 2023 and his research is about image recogonation.
 
 First, upload his photo to "photos/" folder, let the filename be "xx.png" (of course, "Aris.png" is more suggested).
+Notice: 'xx.png' is better not to be too large, otherwise it will load slowly. <100KB is recommended.
 
 Then, open up "contents/members.js", you will get a variable named *members*. Find the key of "Student":
 ```javascript
