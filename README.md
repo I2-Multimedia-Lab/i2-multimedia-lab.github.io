@@ -59,7 +59,7 @@ members = {
 ```
 Done! Every one will see Aris in the index page and member page!
 
-Similarly, delete or edit the members in I2ML just need to delete or edit the corresponding elements of this file!
+Similarly, delete or edit the members in I2ML just need to delete or edit the corresponding elements of this file! Faculty members and Alumi members are in the same way.
 
 ## Guidance for Update News
 Just edit elements in ``contents/news.js``.
@@ -98,7 +98,7 @@ news = [
 ```
 Done! Every one will see this news in the index page and news page!
 
-Similarly, delete or edit the news in I2ML just need to delete or edit the corresponding elements of this file! Faculty members and Alumi members are in the same way.
+Similarly, delete or edit the news in I2ML just need to delete or edit the corresponding elements of this file!
 
 ## Guidance for Update Publications
 Just edit elements in ``contents/publications.js``.
@@ -125,8 +125,8 @@ publications = [
         'title':"Aris, I2ML is all you need, CVPR, 2023.",
         'year':2023，
         'paperlink':'https://ieeexplore.ieee.org/abstract/document/0000000/',
-        'arxivlink':'', // if you have an arxiv version, put it in. other wise keep an empty quotes like ''.
-        'codelink':'', // if you have an open-source code, put it in. other wise keep an empty quotes like ''.
+        'arxivlink':'', // if you have an arxiv version, put the link in. other wise keep an empty quotes like ''.
+        'codelink':'', // if you have an open-source code, put the link in. other wise keep an empty quotes like ''.
     }, // don't forget this comma
     {
         'title':"Kang You, Pan Gao, and Qing Li. 2022. IPDAE: Improved Patch-Based Deep Autoencoder for Lossy Point Cloud Geometry Compression. In Proceedings of the 1st International Workshop on Advances in Point Cloud Compression, Processing and Analysis (APCCPA '22). Association for Computing Machinery, New York, NY, USA, 1–10.",
