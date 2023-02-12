@@ -7,6 +7,12 @@
 
 news = [
     {
+        'title':'We are organizing a workshop in ICME 2023, Brisbane, Australia',
+        'date':'2023-02-10',
+        'newbrand':true,
+        'content':'<p>We are organizing a workshop on "Immersive Media Compression" in ICME 2023, Brisbane, Australia</p><p>The scope of this workshop is immersive multimedia (point clouds, light fields, omnidirectional image and video, etc), visual data compression, image and quality assessment, deep learning for immersive data processing, and so on. </p> <p> Please consider to submit your work to this workshop. Looking forward to seeing you in the sunshine city Brisbane. More details about this workshop can be found at the website: https://imc-icme2023.github.io/</p>',
+    },
+    {
         'title':'New homepage of our I2ML is published online!',
         'date':'2023-01-25',
         'newbrand':true,
