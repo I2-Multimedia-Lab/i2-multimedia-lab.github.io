@@ -7,6 +7,12 @@
 
 news = [
     {
+        'title':'Our paper accepted by CVPR 2023!',
+        'date':'2023-02-28',
+        'newbrand':true,
+        'content':'<p>Congratulations to Li Shanshan on his excellent work "ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer", which has accepted by CVPR 2023! Well done!</p><p>ABSTRACT:Problems such as equipment defects or limited viewpoints will lead the captured point clouds to be incomplete. Therefore, recovering the complete point clouds from the partial ones plays an vital role in many practical tasks, and one of the keys lies in the prediction of the missing part. In this paper, we propose a novel point cloud completion approach namely ProxyFormer that divides point clouds into existing (input) and missing (to be predicted) parts and each part communicates information through its proxies. Specifically, we fuse information into point proxy via feature and position extractor, and generate features for missing point proxies from the features of existing point proxies. Then, in order to better perceive the position of missing points, we design a missing part sensitive transformer, which converts random normal distribution into reasonable position information, and uses proxy alignment to refine the missing proxies. It makes the predicted point proxies more sensitive to the features and positions of the missing part, and thus make these proxies more suitable for subsequent coarse-to-fine processes. Experimental results show that our method outperforms state-of-the-art completion networks on several benchmark datasets and has the fastest inference speed.</p>',
+    },
+    {
         'title':'We are organizing a workshop in ICME 2023, Brisbane, Australia',
         'date':'2023-02-10',
         'newbrand':true,
@@ -15,7 +21,7 @@ news = [
     {
         'title':'New homepage of our I2ML is published online!',
         'date':'2023-01-25',
-        'newbrand':true,
+        'newbrand':false,
         'content':'<p>The home page of I2ML has received a major update!🎉🎉🎉</p><p>The updated responsive website can give you a smooth viewing experience on different devices, including computer, mobile phone and pad!</p><p>The website has changed to i2-multimedia-lab.github.io, the corresponding Github is github.com/I2-Multimedia-Lab/i2-multimedia-lab.github.io</p><p>Publishing content of our website can be achieved simply by editing dictionary elements! See our GitHub for details of the source code and the guidance!😄</p>',
     },
     {
