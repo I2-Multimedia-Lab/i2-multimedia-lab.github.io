@@ -6,6 +6,12 @@
 // }
 
 news = [
+     {
+        'title':'Dr. Gao was invited to present an IEEE SPS webinar!',
+        'date':'2023-03-30',
+        'newbrand':true,
+        'content':'<p>Dr. Gao was invited to present an IEEE SPS webinar. This presentation will cover the technologies about quality evaluation for omnidirectional video/image developed in our team. Most of the works were done by our team member Pengwei Zhang during his postgraduate study. Thanks him for these excellent works. </p> <p>The presentation will take place Wednesday April 12, 2023 @ 9:30 pm Beijing time. If you are interested in this seminar. Please register this evenet via the link https://ieee.webex.com/webappng/sites/ieee/meeting/register/ac8894d719f34e719648819198e0924e?ticket=4832534b000000063ff4bfef1c1614314ac5c8ba6312dde668944d6c7ca0e5425caa329412bc697c&timestamp=1680244886745&RGID=rfc89ed79ac37cd413b06f7ca4b2d0b93</p><p>ABSTRACT: Omnidirectional video, also known as 360-degree video, has become increasingly popular nowadays due to its ability to provide immersive and interactive visual experiences. However, the ultra high resolution and the spherical observation space brought by the large spherical viewing range make omnidirectional video distinctly different from traditional 2D video. To date, the video quality assessment (VQA) for omnidirectional video is still an open issue. This talk contains two parts. The first part introduces a spatio–temporal modeling approach. In this approach, we firstly construct a spatio–temporal quality assessment unit to evaluate the average distortion in temporal dimension at the eye fixation level. Then, we give a detailed solution of how to to integrate the three existing spatial VQA metrics into this approach. Besides, the cross-format omnidirectional video distortion measurement is also discussed. Based on the modeling approach, a full reference objective quality assessment metric for omnidirectional video is derived, namely OV-PSNR. Experimental results show that OV-PSNR greatly improves the prediction performance of existing VQA metrics for omnidirectional video.The second part of this talk will introduce our attempt to using deep learning for blind omnidirectional image quality assessment. We will firstly talk about the challenges currently faced in this filed, and then provide the details about our proposed model BOIQA. Our model contains two-stage training: one is to pre-train the model to obtain the objective error map with reference image, and the other one is to train the model to predict the score with the inferenced objective error map, where we employ spatial weight map as a prior to predict human sensitivity map. Finally, we provide the performance of our BOIQA on the datasets CVIQ and OIQA. </p>
+    },
     {
         'title':'Our paper accepted by CVPR 2023!',
         'date':'2023-02-28',
@@ -15,7 +21,7 @@ news = [
     {
         'title':'We are organizing a workshop in ICME 2023, Brisbane, Australia',
         'date':'2023-02-10',
-        'newbrand':true,
+        'newbrand':false,
         'content':'<p>We are organizing a workshop on "Immersive Media Compression" in ICME 2023, Brisbane, Australia</p><p>The scope of this workshop is immersive multimedia (point clouds, light fields, omnidirectional image and video, etc), visual data compression, image and quality assessment, deep learning for immersive data processing, and so on. </p> <p> Please consider to submit your work to this workshop. Looking forward to seeing you in the sunshine city Brisbane. More details about this workshop can be found at the website: https://imc-icme2023.github.io/</p>',
     },
     {
