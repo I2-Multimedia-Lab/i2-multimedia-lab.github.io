@@ -73,22 +73,22 @@ members = {
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2021"
         },
+    ],
+    "Alumni":[
         {
             "name":"Haoyue Tian",
             "photoUrl":"./photos/Haoyue Tian.jpg",
             "introduction":"Research Area: Video Compression Encoding with Deep Learning.",
             "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2020"
+            "footnote2":"Year of Graduation: 2023"
         },
         {
             "name":"Kang You",
             "photoUrl":"./photos/Kang You.jpg",
             "introduction":"Research Area: Lossy Point Cloud Geometry Compression using Deep Learning.",
             "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2020"
+            "footnote2":"Year of Graduation: 2023"
         },
-    ],
-    "Alumni":[
         {
             "name":"Cheng Zhang",
             "photoUrl":"./photos/Cheng Zhang.jpg",
