@@ -4,7 +4,7 @@ A simple lab webpage without any backstage or database!
 
 Responsive for all devices including computer, phone and pad!
 
-Contents of the page (i.e., members, news and publications) can be easily updated by editing the dictionary files!
+Contents of the page (i.e., members, news, publications and photos) can be easily updated by editing the dictionary files!
 
 By **fork -> edit elements of dict file -> pull**, everyone can easily edit the contents!
 
@@ -142,6 +142,65 @@ Done! Every one will see this publication in the index page and publication page
 
 Similarly, delete or edit the publication in I2ML just need to delete or edit the corresponding elements of this file!
 
+## Guidance for Update Gallery
+Just edit elements in ``contents/gallery.js``. If you are adding a photo, make sure you have uploaded a photo to the "/photos/gallery/" folder.
+
+##### Example of adding a new photo to the gallery:
+Suppose we are going to adding a new photo with labels "2023-05-02" and "Test Label".
+
+First, upload photo to "/photos/gallery/" folder, let the filename be "xx.jpg" (using the name of date such as "20230502.jpg" is more suggested!)
+
+Then, open ``contents/gallery.js``, you will get a variable named *gallery*.
+
+```javascript
+gallery = [
+    {
+        photo: './photos/gallery/12.jpg',
+        labels:['2023-04-07', 'Graduation'],
+        thumbnail:'./photos/gallery/12.jpg',
+    },
+    // etc...
+]
+```
+
+Then, just add a new element with a similar format like other photos:
+
+```javascript
+gallery = [
+    {
+        photo: './photos/gallery/xx.jpg',
+        labels:['2023-05-02', 'Test Label'],
+    }, // don't forget this comma
+    {
+        photo: './photos/gallery/12.jpg',
+        labels:['2023-04-07', 'Graduation'],
+        thumbnail:'./photos/gallery/12.jpg',
+    },
+    // etc...
+]
+```
+
+Done! Every one will see Aris in the index page and member page!
+
+Similarly, delete or edit the photos in I2ML just need to delete or edit the corresponding elements of this file!
+
+You may have noticed that there is a "thumbnail" attribute on the element below. It's ok to omit this attribute when the photo is not too large, for example, less than 2MB. But, for those HD photos with large size, a thumnail is highly recommanded.
+
+For example, if the above-mentioned “xx.jpg” is too large, you'd better upload a smaller version "xx-lr.jpg" to "/photos/gallery/", and linked to the thumbnail attribute:
+
+```javascript
+gallery = [
+    {
+        photo: './photos/gallery/xx.jpg',
+        labels:['2023-05-02', 'Test Label'],
+        thumbnail: './photos/gallery/xx-lr.jpg',
+    },
+    // etc...
+]
+```
+
+Then, the thumbnial will be shown in the gallery page, instead of the HD photo. The real photo will not be shown until user click on the image.
+
 ## File Organization
 This project is organized in the following format:
 ```
@@ -153,11 +212,13 @@ project/
     |       └── scss/   //
     ├── contents/
     |       ├── config.js       // 页面的某些设置，如主页最多显示几条新闻等，可以在这里修改
+    |       ├── gallery.js      // 照片墙变量
     |       ├── members.js      // 成员列表变量
     |       ├── news.js         // 新闻列表变量
     |       └── publications.js // 成果列表变量
     ├── photos/             // 照片
     ├── article.html        // 新闻详情页
+    ├── gallery.html        // 照片墙页
     ├── index.html          // 主页（包含部分成员、新闻及成果）
     ├── members.html        // 成员列表页
     ├── news.html           // 新闻列表页
