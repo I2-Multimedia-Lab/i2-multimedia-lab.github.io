@@ -12,14 +12,14 @@
 
 gallery = [
     {
-        photo: './photos/gallery/12.jpg',
+        photo: './photos/gallery/20230407.jpg',
         labels:['2023-04-07', 'Graduation'],
-        thumbnail:'./photos/gallery/12.jpg',
+        thumbnail:'./photos/gallery/20230407-lr.jpg',
     },
     {
         photo: './photos/gallery/20230311.jpg',
         labels:['2023-03-11', 'Mountain climbing'],
-        thumbnail:'./photos/gallery/20230311.jpg',
+        thumbnail:'./photos/gallery/20230311-lr.jpg',
     },
     {
         photo: './photos/gallery/20221212-2.jpg',
