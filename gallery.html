@@ -252,7 +252,7 @@ Js写入 -- Members
 				}
 				frame = $('<div class="frame mb-3">\
 								<div class="photo_wrapper">\
-									<img class="photo" src="'+thumbnail+'" onclick="jumpToImage(this)">\
+									<img class="photo" src="'+thumbnail+'" onclick="jumpToImage(this)" link="'+item.photo+'">\
 								</div>\
 								<div class="labels">'+badge_html+'</div>\
 							</div>')
@@ -268,8 +268,8 @@ Js写入 -- Members
 				})
 				frame.hide()
 				target_waterfall.append(frame)
-				frame.fadeIn(10)
-				await sleep(10);
+				frame.fadeIn(100)
+				await sleep(100);
 			}
 			
 			$('#waterfall_spinner').hide()
@@ -279,7 +279,7 @@ Js写入 -- Members
 
 		// 点击时跳转
 		function jumpToImage(imgObj){
-			window.open($(imgObj).attr('src'))
+			window.open($(imgObj).attr('link'))
 		}
 	</script>
 </body>
