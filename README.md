@@ -186,14 +186,14 @@ Similarly, delete or edit the photos in I2ML just need to delete or edit the cor
 
 You may have noticed that there is a "thumbnail" attribute on the element below. It's ok to omit this attribute when the photo is not too large, for example, less than 2MB. But, for those HD photos with large size, a thumnail is highly recommanded.
 
-For example, if the above-mentioned “xx.jpg” is too large, you'd better upload a smaller version "xx-smaller.jpg" to "/photos/gallery/", and linked to the thumbnail attribute:
+For example, if the above-mentioned “xx.jpg” is too large, you'd better upload a smaller version "xx-lr.jpg" to "/photos/gallery/", and linked to the thumbnail attribute:
 
 ```javascript
 gallery = [
     {
         photo: './photos/gallery/xx.jpg',
         labels:['2023-05-02', 'Test Label'],
-        thumbnail: './photos/gallery/xx-smaller.jpg',
+        thumbnail: './photos/gallery/xx-lr.jpg',
     },
     // etc...
 ]
