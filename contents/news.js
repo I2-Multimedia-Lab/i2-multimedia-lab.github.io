@@ -6,6 +6,12 @@
 // }
 
 news = [
+        {
+        'title':'Our undergraduate student\'s paper accepted by IEEE TCDS!',
+        'date':'2023-05-03',
+        'newbrand':true,
+        'content':'<p>Congratulations to our undergraduate student Yihan Tang for his work got accepted by IEEE Transactions on Cognitive and Developmental Systems. Yihan is a senior undergraduate student, majored in computer science and technology, and has joined our team since his second year of college study. He is actively engaged in the research of the cutting-edge technology in computer vision and deep learning. This is the first time that undergraduate student gets research work published in prestigious international journal, which is a momentous achievement in our team!    Well done!</p><p>ABSTRACT:  Predicting salient regions in images requires the capture of contextual information in the scene. Conventional saliency models typically use the encoder-decoder architecture and multi-scale feature fusion for modeling contextual features, which, however, possess huge computational cost and model parameters. In this paper, we address the saliency prediction task by capturing long-range dependencies based on the self-attention mechanism. Self-attention has been widely used in image recognition or other classification tasks, but is still rarely being considered in regression based saliency prediction task. Inspired by non-local block, we propose a new SALiency prediction network in which DeepConvNet is integrated with the Attention mechanism, namely SalDA. Considering each feature map may capture different salient regions, our spatial attention module firstly adaptively aggregates the feature at each position by a weighted sum of the features at all positions within each independent channel. Meanwhile, in order to capture interdependence between channels, we also introduce a channel attention module to integrate different features among different channels. We combine these two attention modules into a multi-attention module to further improve the saliency map prediction for the network. We show the effectiveness of SalDA on the largest saliency prediction dataset SALICON. Compared to other state-of-the-art methods in this area, we can yield comparable saliency prediction performance, but with substantially less model parameters and shorter inference time. </p>',
+      },
      {
         'title':'Dr. Gao was invited to present an IEEE SPS webinar!',
         'date':'2023-03-30',
@@ -15,7 +21,7 @@ news = [
     {
         'title':'Our paper accepted by CVPR 2023!',
         'date':'2023-02-28',
-        'newbrand':true,
+        'newbrand':false,
         'content':'<p>Congratulations to Li Shanshan on his excellent work "ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer", which has accepted by CVPR 2023! Well done!</p><p>ABSTRACT:Problems such as equipment defects or limited viewpoints will lead the captured point clouds to be incomplete. Therefore, recovering the complete point clouds from the partial ones plays an vital role in many practical tasks, and one of the keys lies in the prediction of the missing part. In this paper, we propose a novel point cloud completion approach namely ProxyFormer that divides point clouds into existing (input) and missing (to be predicted) parts and each part communicates information through its proxies. Specifically, we fuse information into point proxy via feature and position extractor, and generate features for missing point proxies from the features of existing point proxies. Then, in order to better perceive the position of missing points, we design a missing part sensitive transformer, which converts random normal distribution into reasonable position information, and uses proxy alignment to refine the missing proxies. It makes the predicted point proxies more sensitive to the features and positions of the missing part, and thus make these proxies more suitable for subsequent coarse-to-fine processes. Experimental results show that our method outperforms state-of-the-art completion networks on several benchmark datasets and has the fastest inference speed.</p>',
     },
     {
