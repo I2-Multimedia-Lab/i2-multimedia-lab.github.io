@@ -7,6 +7,34 @@
 // },
 
 publications = [
+     {
+        'title': 'Yihan Tang, Pan Gao, and Zhengwei Wang. 2023. "SalDA: DeepConvNet Greets Attention for Visual Saliency Prediction," in IEEE Transactions on Cognitive and Developmental Systems, pp. 1-15.',
+        'year':2023,
+        'paperlink':'https://ieeexplore.ieee.org/document/10122791',
+        'arxivlink':'',
+        'codelink':'https://github.com/Cony-Atalas/SalDA',
+    },
+     {
+        'title': 'Shanshan Li, Pan Gao, Xiaoyang Tan and Mingqiang Wei. 2023. "ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer," in IEEE/CVF Computer Vision and Pattern Recognition (CVPR).',
+        'year':2023,
+        'paperlink':'',
+        'arxivlink':'https://arxiv.org/abs/2302.14435',
+        'codelink':'https://github.com/I2-Multimedia-Lab/ProxyFormer',
+    },
+       {
+        'title': 'Zihao Li, Pan Gao, Hui Yuan, Ran Wei and M. Paul. 2023. "Exploiting Inductive Bias in Transformer for Point Cloud Classification and Segmentation," in IEEE Conf. Multimedia and Expo (ICME) Workshops.',
+        'year':2023,
+        'paperlink':'',
+        'arxivlink':'https://arxiv.org/abs/2304.14124',
+        'codelink':'https://github.com/jiamang/IBT',
+    },
+        {
+        'title': 'Pan Gao, S. Luo and Manoranjan Paul. 2023. "Rate-Distortion Modeling for Bit Rate Constrained Point Cloud Compression," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 33. no. 5, pp. 2424-2438.',
+        'year':2023,
+        'paperlink':'https://ieeexplore.ieee.org/document/9957096',
+        'arxivlink':'',
+        'codelink':'',
+    },
     {
         'title':"Kang You, Pan Gao, and Qing Li. 2022. IPDAE: Improved Patch-Based Deep Autoencoder for Lossy Point Cloud Geometry Compression. In Proceedings of the 1st International Workshop on Advances in Point Cloud Compression, Processing and Analysis (APCCPA '22). Association for Computing Machinery, New York, NY, USA, 1–10.",
         'year':2022,
