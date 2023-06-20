@@ -12,6 +12,11 @@
 
 gallery = [
     {
+        photo: './photos/gallery/20230611.jpg',
+        labels:['2023-06-11', 'VALSE 2023', 'Wuxi'],
+        thumbnail:'./photos/gallery/20230611-lr.jpg',
+    },
+    {
         photo: './photos/gallery/20230407.jpg',
         labels:['2023-04-07', 'Graduation'],
         thumbnail:'./photos/gallery/20230407-lr.jpg',
