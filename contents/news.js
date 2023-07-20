@@ -6,10 +6,16 @@
 // }
 
 news = [
+              {
+        'title':'We are calling for participation on the  topic of "Volumetric Video Processing"',
+        'date':'2023-07-20',
+        'newbrand':true,
+        'content':'<p>We are organizing a special issue in the journal of Frontiers in Signal Processing. The topic is Volumetric Video Processing. Volumetric video enables the immersive representation of real-world objects and environments, offering new possibilities in various fields, including entertainment, education, cultural heritage, and medicine. This project aims to bring together the latest research and development for volumetric video processing. The detailed call-for-paper is available at: https://www.frontiersin.org/research-topics/57622/volumetric-video-processing. We welcome any submission related to volumetric video. </p>',
+      },
         {
         'title':'Our undergraduate student\'s paper accepted by IEEE TCDS!',
         'date':'2023-05-03',
-        'newbrand':true,
+        'newbrand':false,
         'content':'<p>Congratulations to our undergraduate student Yihan Tang for his work got accepted by IEEE Transactions on Cognitive and Developmental Systems. Yihan is a senior undergraduate student, majored in computer science and technology, and has joined our team since his second year of college study. He is actively engaged in the research of the cutting-edge technology in computer vision and deep learning. This is the first time that undergraduate student gets research work published in prestigious international journal, which is a momentous achievement in our team!    Well done!</p><p>ABSTRACT:  Predicting salient regions in images requires the capture of contextual information in the scene. Conventional saliency models typically use the encoder-decoder architecture and multi-scale feature fusion for modeling contextual features, which, however, possess huge computational cost and model parameters. In this paper, we address the saliency prediction task by capturing long-range dependencies based on the self-attention mechanism. Self-attention has been widely used in image recognition or other classification tasks, but is still rarely being considered in regression based saliency prediction task. Inspired by non-local block, we propose a new SALiency prediction network in which DeepConvNet is integrated with the Attention mechanism, namely SalDA. Considering each feature map may capture different salient regions, our spatial attention module firstly adaptively aggregates the feature at each position by a weighted sum of the features at all positions within each independent channel. Meanwhile, in order to capture interdependence between channels, we also introduce a channel attention module to integrate different features among different channels. We combine these two attention modules into a multi-attention module to further improve the saliency map prediction for the network. We show the effectiveness of SalDA on the largest saliency prediction dataset SALICON. Compared to other state-of-the-art methods in this area, we can yield comparable saliency prediction performance, but with substantially less model parameters and shorter inference time. </p>',
       },
      {
