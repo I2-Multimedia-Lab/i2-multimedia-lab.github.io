@@ -13,8 +13,8 @@ Just edit elements in ``contents/members.js``. In addition, since every member h
 ##### Example of adding a new student member:
 Suppose we are going to adding a new postgraduate student named "Aris", whose year of attendence is 2023 and his research is about image recogonation.
 
-First, upload his photo to "photos/" folder, let the filename be "xx.png" (of course, "Aris.png" is more suggested).
-Notice: "xx.png" is better not to be too large, otherwise it will load slowly. <100KB is recommended.
+First, upload his photo to "photos/2023/" folder, let the filename be "xx.png" (of course, "Aris.png" is more suggested).
+Notice: "xx.png" is better not to be too large, otherwise it will load slowly. <50KB is recommended.
 
 Then, open up "contents/members.js", you will get a variable named *members*. Find the key of "Student":
 ```javascript
@@ -23,7 +23,7 @@ members = {
     "Student":[
         {
             "name":"Kang You",
-            "photoUrl":"./photos/Kang You.jpg",
+            "photoUrl":"./photos/2020/Kang You.jpg",
             "introduction":"Research Area: Lossy Point Cloud Geometry Compression using Deep Learning.",
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2020"
@@ -40,14 +40,14 @@ members = {
     "Student":[
         {
             "name":"Aris",
-            "photoUrl":"./photos/xx.png",
+            "photoUrl":"./photos/2023/xx.png",
             "introduction":"Research Area: Image Recogonation.",
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2023"
         }, // don't forget this comma
         {
             "name":"Kang You",
-            "photoUrl":"./photos/Kang You.jpg",
+            "photoUrl":"./photos/2020/Kang You.jpg",
             "introduction":"Research Area: Lossy Point Cloud Geometry Compression using Deep Learning.",
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2020"
