@@ -7,6 +7,19 @@
 // },
 
 publications = [
+            {
+        'title': 'Chenyi Zhuang, Pan Gao, Aljosa Smolic. 2023. "StylePrompter: All Styles Need Is Attention," in ACM International Conference on Multimedia (MM), Ottawa, Canada.',
+        'year':2023,
+        'paperlink':'',
+        'arxivlink':'https://arxiv.org/abs/2307.16151',
+        'codelink':'https://github.com/I2-Multimedia-Lab/StylePrompter',
+       },
+         {
+        'title': 'Pan Gao, Haoyue Tian, and Jie Qin. 2023. "Video Frame Interpolation with Flow Transformer," in ACM International Conference on Multimedia (MM), Ottawa, Canada.',
+        'year':2023,
+        'paperlink':'',
+        'arxivlink':'https://arxiv.org/abs/2307.16144',
+    },
      {
         'title': 'Yihan Tang, Pan Gao, and Zhengwei Wang. 2023. "SalDA: DeepConvNet Greets Attention for Visual Saliency Prediction," in IEEE Transactions on Cognitive and Developmental Systems, pp. 1-15.',
         'year':2023,
