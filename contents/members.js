@@ -127,7 +127,7 @@ members = {
         {
             "name":"Kang You",
             "photoUrl":"./photos/2020/Kang You.jpg",
-            "introduction":"Research Area: Lossy Point Cloud Geometry Compression using Deep Learning.",
+            "introduction":"Research Area: Point Cloud Compression using Deep Learning.",
             "footnote":"Master Student",
             "footnote2":"Year of Graduation: 2023"
         },
@@ -159,6 +159,22 @@ members = {
             "footnote":"Master Student",
             "footnote2":"Year of Graduation: 2021"
         }
-    ]
+    ],
+    "Other":[
+        {
+            "name":"Kang You",
+            "photoUrl":"./photos/2020/Kang You.jpg",
+            "introduction":"Research Area: Point Cloud Compression using Deep Learning.",
+            "footnote":"Research Assistant",
+            "footnote2":"From April 2023 to Present"
+        },
+        {
+            "name":"Yihan Tang",
+            "photoUrl":"./photos/2023/Yihan Tang.jpg",
+            "introduction":"Research Area: Visual Saliency Prediction.",
+            "footnote":"Research Assistant",
+            "footnote2":"From September 2023 to Present"
+        },
+    ],
 }
 
