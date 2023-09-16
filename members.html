@@ -153,6 +153,7 @@ MAIN
 					<span class="tabswitcher mr-4 active" aim="facMemTab">Faculty</span>
 					<span class="tabswitcher mr-4" aim="curStuTab">Student</span>
 					<span class="tabswitcher mr-4" aim="aluTab">Alumni</span>
+					<span class="tabswitcher mr-4" aim="otherTab">Other</span>
 				</h5>
 				<div class="mb-2 tab active" id="facMemTab">
 					<div class="mb-3 d-flex">
@@ -177,7 +178,7 @@ MAIN
 						</div>
 					</div>
 				</div>
-
+				<div class="mb-2 tab" id="otherTab"></div>
 				<div class="mb-2 tab" id="curStuTab"></div>
 				<div class="mb-2 tab" id="aluTab"></div>
 			</div>
@@ -262,6 +263,14 @@ Js写入 -- Members
 			content += generateProfile(m['name'], m['photoUrl'], m['introduction'], m['footnote'], m['footnote2'])
 		}
 		$('#facMemTab').html(content)
+
+		// Research Assistant
+		content = ''
+		for (i in members['Other']) {
+			m = members['Other'][i]
+			content += generateProfile(m['name'], m['photoUrl'], m['introduction'], m['footnote'], m['footnote2'])
+		}
+		$('#otherTab').html(content)
 
 		// Students
 		content = ''
