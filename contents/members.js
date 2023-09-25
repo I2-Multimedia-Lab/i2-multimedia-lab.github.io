@@ -55,7 +55,7 @@ members = {
         {
             "name":"Yidan Wang",
             "photoUrl":"./photos/2023/Yidan Wang.jpg",
-            "introduction":"Research Area: To Be Determined.",
+            "introduction":"Research Area: Visual Grounding.",
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2023"
         },
