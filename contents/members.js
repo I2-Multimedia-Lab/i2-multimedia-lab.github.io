@@ -34,21 +34,21 @@ members = {
         {
             "name":"Chang Xie",
             "photoUrl":"./photos/2023/Chang Xie.jpg",
-            "introduction":"Research Area: To Be Determined.",
+            "introduction":"Research Area: Text to Image Generation.",
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2023"
         },
         {
             "name":"Zhi Zuo",
             "photoUrl":"./photos/2023/Zhi Zuo.jpg",
-            "introduction":"Research Area: To Be Determined.",
+            "introduction":"Research Area: Point Cloud Video Analysis.",
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2023"
         },
         {
             "name":"Bing Han",
             "photoUrl":"./photos/2023/Bing Han.jpg",
-            "introduction":"Research Area: To Be Determined.",
+            "introduction":"Research Area: 3D Human Pose Estimation.",
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2023"
         },
