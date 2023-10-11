@@ -10,7 +10,7 @@ news = [
         'title':'We are calling for participation on the  topic of "Volumetric Video Processing"',
         'date':'2023-07-20',
         'newbrand':true,
-        'content':'<p>We are organizing a special issue in the journal of Frontiers in Signal Processing. The topic is Volumetric Video Processing. Volumetric video enables the immersive representation of real-world objects and environments, offering new possibilities in various fields, including entertainment, education, cultural heritage, and medicine. This project aims to bring together the latest research and development for volumetric video processing. The detailed call-for-paper is available at: https://www.frontiersin.org/research-topics/57622/volumetric-video-processing. We welcome any submission related to volumetric video. </p>',
+        'content':'<p>We are organizing a special issue in the journal of Frontiers in Signal Processing. The topic is Volumetric Video Processing. Volumetric video enables the immersive representation of real-world objects and environments, offering new possibilities in various fields, including entertainment, education, cultural heritage, and medicine. This project aims to bring together the latest research and development for volumetric video processing. The detailed call-for-paper is available at: https://www.frontiersin.org/research-topics/57622/volumetric-video-processing   We welcome any submission related to volumetric video. </p>',
       },
         {
         'title':'Our undergraduate student\'s paper accepted by IEEE TCDS!',
