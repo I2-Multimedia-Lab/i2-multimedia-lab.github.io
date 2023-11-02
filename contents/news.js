@@ -6,23 +6,50 @@
 // }
 
 news = [
-              {
+    {
+        'title':'Two paper accepted by TMM!',
+        'date':'2023-10-12',
+        'newbrand':true,
+        'content':'<p>The paper "Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token" completed by Jinsong Shi and the paper "RLGrid: Reinforcement Learning Controlled Grid Deformation for Coarse to Fine Point Court Completion" completed by Shanshan Li have accepted in the international journal IEEE Trans On Multimedia (TMM). Congrats! 🎉🎉</p>',
+    },
+    {
+        'title':'Two paper accepted by ACM MM 2023!',
+        'date':'2023-07-27',
+        'newbrand':false,
+        'content':'<p>The paper "StylePrompter: All Styles Need Is Attention" completed by Chenyi Zhuang and the paper "Video Frame Interpolation with Flow Transformer" completed by Haoyue Tian were accepted by the ACM Multimedia (ACM MM) 2023. The ACM International Conference on Multimedia (ACM MM) is a top-level global event and an A-class international conference recommended by the China Computer Federation (CCF) in the multimedia field. The conference will be held in Ottawa, Canada in 2023. Congrats to Chenyi and Haoyue!</p>',
+    },
+    {
         'title':'We are calling for participation on the  topic of "Volumetric Video Processing"',
         'date':'2023-07-20',
-        'newbrand':true,
+        'newbrand':false,
         'content':'<p>We are organizing a special issue in the journal of Frontiers in Signal Processing. The topic is Volumetric Video Processing. Volumetric video enables the immersive representation of real-world objects and environments, offering new possibilities in various fields, including entertainment, education, cultural heritage, and medicine. This project aims to bring together the latest research and development for volumetric video processing. The detailed call-for-paper is available at: https://www.frontiersin.org/research-topics/57622/volumetric-video-processing   We welcome any submission related to volumetric video. </p>',
-      },
-        {
+    },
+    {
         'title':'Our undergraduate student\'s paper accepted by IEEE TCDS!',
         'date':'2023-05-03',
         'newbrand':false,
         'content':'<p>Congratulations to our undergraduate student Yihan Tang for his work got accepted by IEEE Transactions on Cognitive and Developmental Systems. Yihan is a senior undergraduate student, majored in computer science and technology, and has joined our team since his second year of college study. He is actively engaged in the research of the cutting-edge technology in computer vision and deep learning. This is the first time that undergraduate student gets research work published in prestigious international journal, which is a momentous achievement in our team!    Well done!</p><p>ABSTRACT:  Predicting salient regions in images requires the capture of contextual information in the scene. Conventional saliency models typically use the encoder-decoder architecture and multi-scale feature fusion for modeling contextual features, which, however, possess huge computational cost and model parameters. In this paper, we address the saliency prediction task by capturing long-range dependencies based on the self-attention mechanism. Self-attention has been widely used in image recognition or other classification tasks, but is still rarely being considered in regression based saliency prediction task. Inspired by non-local block, we propose a new SALiency prediction network in which DeepConvNet is integrated with the Attention mechanism, namely SalDA. Considering each feature map may capture different salient regions, our spatial attention module firstly adaptively aggregates the feature at each position by a weighted sum of the features at all positions within each independent channel. Meanwhile, in order to capture interdependence between channels, we also introduce a channel attention module to integrate different features among different channels. We combine these two attention modules into a multi-attention module to further improve the saliency map prediction for the network. We show the effectiveness of SalDA on the largest saliency prediction dataset SALICON. Compared to other state-of-the-art methods in this area, we can yield comparable saliency prediction performance, but with substantially less model parameters and shorter inference time. </p>',
-      },
-     {
+    },
+    {
         'title':'Dr. Gao was invited to present an IEEE SPS webinar!',
         'date':'2023-03-30',
         'newbrand':false,
-        'content':'<p>Dr. Gao was invited to present an IEEE SPS webinar. This presentation will cover the technologies about quality evaluation for omnidirectional video/image developed in our team. Most of the works were done by our team member Pengwei Zhang during his postgraduate study. Thanks him for these excellent works. </p> <p>The presentation will take place on Wednesday April 12, 2023 @ 9:30 pm Beijing time. If you are interested in this seminar. Please register this evenet via the link https://signalprocessingsociety.org/blog/sps-webinar-quality-assessment-omnidirectional-videoimages-spatio-temporal-distortion-modeling</p><p>ABSTRACT: Omnidirectional video, also known as 360-degree video, has become increasingly popular nowadays due to its ability to provide immersive and interactive visual experiences. However, the ultra high resolution and the spherical observation space brought by the large spherical viewing range make omnidirectional video distinctly different from traditional 2D video. To date, the video quality assessment (VQA) for omnidirectional video is still an open issue. This talk contains two parts. The first part introduces a spatio–temporal modeling approach. In this approach, we firstly construct a spatio–temporal quality assessment unit to evaluate the average distortion in temporal dimension at the eye fixation level. Then, we give a detailed solution of how to to integrate the three existing spatial VQA metrics into this approach. Besides, the cross-format omnidirectional video distortion measurement is also discussed. Based on the modeling approach, a full reference objective quality assessment metric for omnidirectional video is derived, namely OV-PSNR. Experimental results show that OV-PSNR greatly improves the prediction performance of existing VQA metrics for omnidirectional video.The second part of this talk will introduce our attempt to using deep learning for blind omnidirectional image quality assessment. We will firstly talk about the challenges currently faced in this filed, and then provide the details about our proposed model BOIQA. Our model contains two-stage training: one is to pre-train the model to obtain the objective error map with reference image, and the other one is to train the model to predict the score with the inferenced objective error map, where we employ spatial weight map as a prior to predict human sensitivity map. Finally, we provide the performance of our BOIQA on the datasets CVIQ and OIQA. </p>',
+        'content':'<p>Dr. Gao was invited to present an IEEE SPS webinar. \
+        This presentation will cover the technologies about quality evaluation for omnidirectional video/image developed in our team. \
+        Most of the works were done by our team member Pengwei Zhang during his postgraduate study. Thanks him for these excellent works. \
+        </p> <p>The presentation will take place on Wednesday April 12, 2023 @ 9:30 pm Beijing time. If you are interested in this seminar. \
+        Please register this evenet via the link https://signalprocessingsociety.org/blog/sps-webinar-quality-assessment-omnidirectional-videoimages-spatio-temporal-distortion-modeling</p>\
+        <p>ABSTRACT: Omnidirectional video, also known as 360-degree video, has become increasingly popular nowadays due to its ability to provide immersive and interactive visual experiences. \
+        However, the ultra high resolution and the spherical observation space brought by the large spherical viewing range make omnidirectional video distinctly different from traditional 2D video. \
+        To date, the video quality assessment (VQA) for omnidirectional video is still an open issue. This talk contains two parts. The first part introduces a spatio–temporal modeling approach. \
+        In this approach, we firstly construct a spatio–temporal quality assessment unit to evaluate the average distortion in temporal dimension at the eye fixation level. \
+        Then, we give a detailed solution of how to to integrate the three existing spatial VQA metrics into this approach. Besides, the cross-format omnidirectional video distortion measurement \
+        is also discussed. Based on the modeling approach, a full reference objective quality assessment metric for omnidirectional video is derived, namely OV-PSNR. Experimental results show that \
+        OV-PSNR greatly improves the prediction performance of existing VQA metrics for omnidirectional video.The second part of this talk will introduce our attempt to using deep learning for blind\
+        omnidirectional image quality assessment. We will firstly talk about the challenges currently faced in this filed, and then provide the details about our proposed model BOIQA. Our model \
+        contains two-stage training: one is to pre-train the model to obtain the objective error map with reference image, and the other one is to train the model to predict the score with \
+        the inferenced objective error map, where we employ spatial weight map as a prior to predict human sensitivity map. Finally, we provide the performance of our BOIQA on the datasets CVIQ \
+        and OIQA. </p>',
     },
     {
         'title':'Our paper accepted by CVPR 2023!',
