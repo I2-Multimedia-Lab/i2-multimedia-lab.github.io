@@ -11,6 +11,10 @@
 // 直至所有图片放完为止
 
 gallery = [
+      {
+        photo: './photos/gallery/20231106.jpg',
+        labels:['2023-11-06', 'Prof. Wei Xiang from La Trobe University visited Nanjing'],
+    }, // don't forget this comma
     {
         photo: './photos/gallery/20230611.jpg',
         labels:['2023-06-11', 'VALSE 2023', 'Wuxi'],
