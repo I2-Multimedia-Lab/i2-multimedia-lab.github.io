@@ -7,6 +7,21 @@
 // },
 
 publications = [
+                 {
+        'title': 'ShanShan Li, Pan Gao, Xiaoyang Tan, Wei Xiang. 2023. "RLGrid: Reinforcement Learning Controlled Grid Deformation for Coarse-to-Fine Point Could Completion," in IEEE Transactions on Multimedia, DOI: 10.1109/TMM.2023.3318327',
+        'year':2023,
+        'paperlink':'https://ieeexplore.ieee.org/abstract/document/10261217',
+        'arxivlink': '',
+        'codelink':'https://github.com/I2-Multimedia-Lab/RLGrid',
+       },
+
+     {
+        'title': 'Jinsong Shi, Pan Gao, Aljosa Smolic. 2023. "Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token," in IEEE Transactions on Multimedia, DOI: 10.1109/TMM.2023.3325719',
+        'year':2023,
+        'paperlink':'https://ieeexplore.ieee.org/document/10287911',
+        'arxivlink': 'https://arxiv.org/abs/2305.09353',
+        'codelink':'https://github.com/I2-Multimedia-Lab/TempQT',
+       },
             {
         'title': 'Chenyi Zhuang, Pan Gao, Aljosa Smolic. 2023. "StylePrompter: All Styles Need Is Attention," in ACM International Conference on Multimedia (MM), Ottawa, Canada.',
         'year':2023,
