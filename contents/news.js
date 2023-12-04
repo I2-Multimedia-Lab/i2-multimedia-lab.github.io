@@ -7,13 +7,13 @@
 
 news = [
     {
-        'title':'Two paper accepted by TMM!',
+        'title':'Two papers accepted by TMM!',
         'date':'2023-10-12',
         'newbrand':true,
         'content':'<p>The paper "Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token" completed by Jinsong Shi and the paper "RLGrid: Reinforcement Learning Controlled Grid Deformation for Coarse to Fine Point Court Completion" completed by Shanshan Li have accepted in the international journal IEEE Trans On Multimedia (TMM). Congrats! 🎉🎉</p>',
     },
     {
-        'title':'Two paper accepted by ACM MM 2023!',
+        'title':'Two papers accepted by ACM MM 2023!',
         'date':'2023-07-27',
         'newbrand':false,
         'content':'<p>The paper "StylePrompter: All Styles Need Is Attention" completed by Chenyi Zhuang and the paper "Video Frame Interpolation with Flow Transformer" completed by Haoyue Tian were accepted by the ACM Multimedia (ACM MM) 2023. The ACM International Conference on Multimedia (ACM MM) is a top-level global event and an A-class international conference recommended by the China Computer Federation (CCF) in the multimedia field. The conference will be held in Ottawa, Canada in 2023. Congrats to Chenyi and Haoyue!</p>',
