@@ -11,6 +11,10 @@
 // 直至所有图片放完为止
 
 gallery = [
+       {
+        photo: './photos/gallery/Image_snow_2023.png',
+        labels:['2023-12-18', 'A heavy snowfall in Nanjing'],
+    }, // don't forget this comma
       {
         photo: './photos/gallery/20231106.jpg',
         labels:['2023-11-06', 'Prof. Wei Xiang from La Trobe University visited Nanjing'],
