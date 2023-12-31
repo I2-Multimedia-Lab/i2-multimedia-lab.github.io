@@ -12,6 +12,11 @@
 
 gallery = [
     {
+        photo: './photos/gallery/20231225.png',
+        labels:['2023-12-25', 'Annual Report'],
+        thumbnail:'./photos/gallery/20231225_lr.jpg',
+    }, // don't forget this comma
+    {
         photo: './photos/gallery/Image_snow_2023.png',
         labels:['2023-12-18', 'A heavy snowfall in Nanjing'],
         thumbnail:'./photos/gallery/Image_snow_2023_lr.jpg',
