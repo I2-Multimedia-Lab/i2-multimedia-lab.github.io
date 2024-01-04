@@ -12,7 +12,7 @@
 
 gallery = [
     {
-        photo: './photos/gallery/20231225.png',
+        photo: './photos/gallery/20231225.jpg',
         labels:['2023-12-25', 'Annual Report'],
         thumbnail:'./photos/gallery/20231225_lr.jpg',
     }, // don't forget this comma
