@@ -10,12 +10,7 @@ news = [
         'title':'One paper accepted by IEEE Trans. Multimedia!',
         'date':'2024-02-13',
         'newbrand':true,
-        'content':'<p>Congratulations to Qingguo Liu for the acceptance of a paper by IEEE Trans. Multimedia.\ 
-
-This paper proposed a degradation-aware self-attention based Transformer for blind image super-resolution. It addresses the critical problem in blind SR that how to make the network adaptive to unknow image degradation. It designs a degradation-oriented Transformer for image reconstruction, which also are the first time to introduce Transformer architecture to blind SR. The experiments are tested on two scenarios, i.e., degradation process with isotropic Gaussian kernels and anisotropic Gaussian kernels and noises.\ 
-
-Congratulations again to Qinggguo for the amazing achievement!!
-</p>',
+        'content':'<p>Congratulations to Qingguo Liu for the acceptance of a paper by IEEE Trans. Multimedia.\ This paper proposed a degradation-aware self-attention based Transformer for blind image super-resolution. It addresses the critical problem in blind SR that how to make the network adaptive to unknow image degradation. It designs a degradation-oriented Transformer for image reconstruction, which also are the first time to introduce Transformer architecture to blind SR. The experiments are tested on two scenarios, i.e., degradation process with isotropic Gaussian kernels and anisotropic Gaussian kernels and noises.\ Congratulations again to Qinggguo for the amazing achievement!!</p>',
     },
     {
         'title':'One paper accepted by AAAI 2024!',
