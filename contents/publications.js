@@ -7,6 +7,23 @@
 // },
 
 publications = [
+         {
+        'title': 'Qingguo Liu, Pan Gao, Kang Han, Ningzhong Liu, Wei Xiang. 2024. "Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution," in IEEE Transactions on Multimedia',
+        'year':2024,
+        'paperlink':'',
+        'arxivlink': 'https://arxiv.org/pdf/2310.04180.pdf',
+        'codelink':'https://github.com/I2-Multimedia-Lab/DSAT',
+       },       
+  
+  {
+        'title': 'Jinsong Shi, Pan Gao, Xiaoyang Tan, Wei Xiang. 2024. "Transformer-based No-Reference Image Quality Assessment via Supervised Contrastive Learning," in AAAI 2024',
+        'year':2024,
+        'paperlink':'',
+        'arxivlink': 'https://arxiv.org/abs/2312.06995',
+        'codelink':'https://github.com/I2-Multimedia-Lab/SaTQA',
+       },
+
+  
                  {
         'title': 'ShanShan Li, Pan Gao, Xiaoyang Tan, Wei Xiang. 2023. "RLGrid: Reinforcement Learning Controlled Grid Deformation for Coarse-to-Fine Point Could Completion," in IEEE Transactions on Multimedia, DOI: 10.1109/TMM.2023.3318327',
         'year':2023,
