@@ -16,7 +16,7 @@ publications = [
        },       
   
   {
-        'title': 'Jinsong Shi, Pan Gao, Xiaoyang Tan, Wei Xiang. 2024. "Transformer-based No-Reference Image Quality Assessment via Supervised Contrastive Learning," in AAAI 2024',
+        'title': 'Jinsong Shi, Pan Gao, Jie Qin. 2024. "Transformer-based No-Reference Image Quality Assessment via Supervised Contrastive Learning," in AAAI 2024',
         'year':2024,
         'paperlink':'',
         'arxivlink': 'https://arxiv.org/abs/2312.06995',
