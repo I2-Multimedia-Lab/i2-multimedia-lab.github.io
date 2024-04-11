@@ -6,7 +6,13 @@
 // }
 
 news = [
-        {
+    {
+        'title':'Two paper accepted by CVPR 2024!',
+        'date':'2024-02-27',
+        'newbrand':true,
+        'content':'<p>Our paper "CDFormer: When Degradation Prediction Embraces  Diffusion Model for Blind Image Super-Resolution" and "Puff-Net: Efficient Style Transfer with Pure Content and Style Feature Fusion Network" are accpected by Conference on Computer Vision and Pattern Recognition (CVPR) 2024. Congrats to Qingguo Liu, Chenyi Zhuang, and Sizhe Zheng! </p>',
+    },
+    {
         'title':'One paper accepted by IEEE Trans. Multimedia!',
         'date':'2024-02-13',
         'newbrand':true,
@@ -15,7 +21,7 @@ news = [
     {
         'title':'One paper accepted by AAAI 2024!',
         'date':'2023-12-12',
-        'newbrand':true,
+        'newbrand':false,
         'content':'<p>The paper "Transformer-based No-Reference Image Quality Assessment via Supervised Contrastive Learning" completed by Jinsong Shi has been accepted by the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24). AAAI-24 received 12100 paper submissions, with a final acceptance rate of 23.75%. The Association for the Advancement of Artificial Intelligence (AAAI) is the premier scientific society dedicated to advancing the scientific understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines, and is a Class A conference recommended by the China Computer Federation (CCF). Congrats to Jinsong!</p>',
     },
     {
