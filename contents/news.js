@@ -7,7 +7,7 @@
 
 news = [
     {
-        'title':'Two paper accepted by CVPR 2024!',
+        'title':'Two papers accepted by CVPR 2024!',
         'date':'2024-02-27',
         'newbrand':true,
         'content':'<p>Our paper "CDFormer: When Degradation Prediction Embraces  Diffusion Model for Blind Image Super-Resolution" and "Puff-Net: Efficient Style Transfer with Pure Content and Style Feature Fusion Network" are accpected by Conference on Computer Vision and Pattern Recognition (CVPR) 2024. Congrats to Qingguo Liu, Chenyi Zhuang, and Sizhe Zheng! </p>',
