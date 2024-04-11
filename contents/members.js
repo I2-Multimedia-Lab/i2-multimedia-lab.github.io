@@ -173,7 +173,7 @@ members = {
             "photoUrl":"./photos/2023/Yihan Tang.jpg",
             "introduction":"Research Area: Visual Saliency Prediction.",
             "footnote":"Research Assistant",
-            "footnote2":"From September 2023 to Present"
+            "footnote2":"From September 2023 to March 2024"
         },
     ],
 }
