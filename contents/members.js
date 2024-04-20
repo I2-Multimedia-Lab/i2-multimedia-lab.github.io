@@ -94,29 +94,29 @@ members = {
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2022"
         },
+    ],
+    "Alumni":[
         {
             "name":"Shanshan Li",
             "photoUrl":"./photos/2021/Shanshan Li.jpg",
             "introduction":"Research Area: Reinforcement Learning in 3D Point Cloud.",
             "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2021"
+            "footnote2":"Year of Graduation: 2024"
         },
         {
             "name":"Zihao Li",
             "photoUrl":"./photos/2021/Zihao Li.jpg",
             "introduction":"Research Area: Classification and Segmentation of 3D point Cloud Objects.",
             "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2021"
+            "footnote2":"Year of Graduation: 2024"
         },
         {
             "name":"Jinsong Shi",
             "photoUrl":"./photos/2021/Jinsong Shi.jpg",
             "introduction":"Research Area: Image Quality Assement with Deep Learning.",
             "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2021"
+            "footnote2":"Year of Graduation: 2024"
         },
-    ],
-    "Alumni":[
         {
             "name":"Haoyue Tian",
             "photoUrl":"./photos/2020/Haoyue Tian.jpg",
