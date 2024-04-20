@@ -7,6 +7,12 @@
 
 news = [
     {
+        'title':'Two papers accepted by IJCAI 2024!',
+        'date':'2024-04-20',
+        'newbrand':true,
+        'content':'<p>Our paper "Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes" and "Unified Unsupervised Salient Object Detection via Knowledge Transfer" are accpected by International Joint Conference on Artificial Intelligence (IJCAI) 2024. Congrats to Kang You and Yao Yuan!</p>',
+    },
+    {
         'title':'Two papers accepted by CVPR 2024!',
         'date':'2024-02-27',
         'newbrand':true,
