@@ -12,6 +12,11 @@
 
 gallery = [
     {
+        photo: './photos/gallery/2024_valse.jpg',
+        labels:['2024-05-05', 'Valse', 'ChongQing'],
+        thumbnail:'./photos/gallery/2024_valse_lr.jpg',
+    }, // don't forget this comma
+    {
         photo: './photos/gallery/20231225.jpg',
         labels:['2023-12-25', 'Annual Report'],
         thumbnail:'./photos/gallery/20231225_lr.jpg',
