@@ -7,6 +7,37 @@
 // },
 
 publications = [
+                  {
+        'title': 'Kang You, Kai Liu, Li Yu, Pan Gao, Dandan Ding. 2024. "Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes," in IJCAI',
+        'year':2024,
+        'paperlink':'',
+        'arxivlink': 'arxiv.org/abs/2404.13550',
+        'codelink':'https://github.com/I2-Multimedia-Lab/Pointsoup',
+       },   
+
+     {
+        'title': 'Yao Yuan, Wutao Liu, Pan Gao, Qun Dai, Jie Qin. 2024. "Unified Unsupervised Salient Object Detection via Knowledge Transfer," in IJCAI',
+        'year':2024,
+        'paperlink':'',
+        'arxivlink': 'https://arxiv.org/abs/2404.14759',
+        'codelink':'https://github.com/I2-Multimedia-Lab/A2S-v3',
+       },   
+
+     {
+        'title': 'Qingguo Liu, Chengyi Zhuang, Pan Gao, Jie Qin. 2024. "CDFormer: When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution," in CVPR',
+        'year':2024,
+        'paperlink':'',
+        'arxivlink': '',
+        'codelink':'https://github.com/I2-Multimedia-Lab/CDFormer',
+       },   
+
+  {
+        'title': 'Sizhe Zheng, Pan Gao, Peng Zhou, Jie Qin. 2024. "Puff-Net: Efficient Style Transfer with Pure Content and Style Feature Fusion Network," in CVPR',
+        'year':2024,
+        'paperlink':'',
+        'arxivlink': '',
+        'codelink':'https://github.com/ZszYmy9/Puff-Net',
+       },   
          {
         'title': 'Qingguo Liu, Pan Gao, Kang Han, Ningzhong Liu, Wei Xiang. 2024. "Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution," in IEEE Transactions on Multimedia',
         'year':2024,
