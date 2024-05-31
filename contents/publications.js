@@ -27,7 +27,7 @@ publications = [
         'title': 'Qingguo Liu, Chengyi Zhuang, Pan Gao, Jie Qin. 2024. "CDFormer: When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution," in CVPR',
         'year':2024,
         'paperlink':'',
-        'arxivlink': '',
+        'arxivlink': 'https://arxiv.org/abs/2405.07648',
         'codelink':'https://github.com/I2-Multimedia-Lab/CDFormer',
        },   
 
@@ -35,7 +35,7 @@ publications = [
         'title': 'Sizhe Zheng, Pan Gao, Peng Zhou, Jie Qin. 2024. "Puff-Net: Efficient Style Transfer with Pure Content and Style Feature Fusion Network," in CVPR',
         'year':2024,
         'paperlink':'',
-        'arxivlink': '',
+        'arxivlink': 'https://arxiv.org/abs/2405.19775',
         'codelink':'https://github.com/ZszYmy9/Puff-Net',
        },   
          {
