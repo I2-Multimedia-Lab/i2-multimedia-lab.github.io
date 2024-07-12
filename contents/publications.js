@@ -8,6 +8,20 @@
 
 publications = [
       {
+        'title': 'Zihao Li, Pan Gao, Kang You, Chuan Yan, Manoranjan Paul. 2024. "Global Attention-Guided Dual-Domain Point Cloud Feature Learning for Classification and Segmentation," in IEEE Transactions on Artificial Intelligence',
+        'year':2024,
+        'paperlink':'',
+        'arxivlink': '',
+        'codelink':'',
+      }, 
+      {
+        'title': 'Jinsong shi, Pan Gao, Xiaojiang Peng, Jie Qin. 2024. "DSMix: Distortion-Induced Sensitivity Map Based Pre-training for No-Reference Image Quality Assessment," in ECCV',
+        'year':2024,
+        'paperlink':'',
+        'arxivlink': 'https://arxiv.org/abs/2407.03886',
+        'codelink':'https://github.com/I2-Multimedia-Lab/DSMix',
+      }, 
+      {
         'title': 'Kang You, Kai Liu, Li Yu, Pan Gao, Dandan Ding. 2024. "Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes," in IJCAI',
         'year':2024,
         'paperlink':'',
