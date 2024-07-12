@@ -11,6 +11,16 @@
 // 直至所有图片放完为止
 
 gallery = [
+      {
+        photo: './photos/gallery/Farewell_Kang.jpg',
+        labels:['2024-07-12', 'Farewell to Kang You', 'Nanjing'],
+        thumbnail:'./photos/gallery/Farewell_Kang_lr.jpg',
+    }, // don't forget this comma
+          {
+        photo: './photos/gallery/Chengyi_CVPR.jpg',
+        labels:['2024-07-12', 'Photoed with a colleague from Google Deepmind during CVPR 2024', 'Seattle'],
+        thumbnail:'./photos/gallery/Chengyi_CVPR_lr.jpg',
+    }, // don't forget this comma
     {
         photo: './photos/gallery/2024_valse.jpg',
         labels:['2024-05-05', 'Valse', 'ChongQing'],
