@@ -13,7 +13,7 @@
 gallery = [
       {
         photo: './photos/gallery/Farewell_Kang.jpg',
-        labels:['2024-07-12', 'Farewell to Kang You', 'Nanjing'],
+        labels:['2024-07-12', 'Farewell party for Kang You', 'Nanjing'],
         thumbnail:'./photos/gallery/Farewell_Kang_lr.jpg',
     }, // don't forget this comma
           {
