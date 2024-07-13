@@ -17,9 +17,9 @@ gallery = [
         thumbnail:'./photos/gallery/Farewell_Kang_lr.jpg',
     }, // don't forget this comma
           {
-        photo: './photos/gallery/Chengyi_CVPR.jpg',
+        photo: './photos/gallery/Chenyi_CVPR.jpg',
         labels:['2024-07-12', 'Photoed with a colleague from Google Deepmind during CVPR 2024', 'Seattle'],
-        thumbnail:'./photos/gallery/Chengyi_CVPR_lr.jpg',
+        thumbnail:'./photos/gallery/Chenyi_CVPR_lr.jpg',
     }, // don't forget this comma
     {
         photo: './photos/gallery/2024_valse.jpg',
