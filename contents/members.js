@@ -166,7 +166,7 @@ members = {
             "photoUrl":"./photos/2020/Kang You.jpg",
             "introduction":"Research Area: Point Cloud Compression using Deep Learning.",
             "footnote":"Research Assistant",
-            "footnote2":"From April 2023 to Present"
+            "footnote2":"From April 2023 to July 2024"
         },
         {
             "name":"Yihan Tang",
