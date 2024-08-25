@@ -11,6 +11,11 @@
 // 直至所有图片放完为止
 
 gallery = [
+        {
+        photo: './photos/gallery/2024_IJCAI_JEJU.png',
+        labels:['2024-08-05', 'IJCAI reception', 'Jeju'],
+        thumbnail:'photos/gallery/2024_IJCAI_JEJU_lr.jpg',
+    }, // don't forget this comma
       {
         photo: './photos/gallery/Farewell_Kang.jpg',
         labels:['2024-07-12', 'Farewell party for Kang You', 'Nanjing'],
