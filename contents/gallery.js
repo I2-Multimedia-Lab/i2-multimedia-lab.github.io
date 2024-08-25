@@ -13,7 +13,7 @@
 gallery = [
         {
         photo: './photos/gallery/2024_IJCAI_JEJU.png',
-        labels:['2024-08-05', 'IJCAI reception', 'Jeju'],
+        labels:['2024-08-05', 'IJCAI reception', 'JEJU'],
         thumbnail:'photos/gallery/2024_IJCAI_JEJU_lr.jpg',
     }, // don't forget this comma
       {
