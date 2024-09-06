@@ -101,6 +101,41 @@ members = {
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2024"
         },
+        {
+            "name":"Longmi Gao",
+            "photoUrl":"./photos/2024/Longmi Gao.jpg",
+            "introduction":"Research Area: Real-World Image Super-Resolution.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2024"
+        },
+        {
+            "name":"Lirui Zhang",
+            "photoUrl":"./photos/2024/Lirui Zhang.jpg",
+            "introduction":"Research Area: Point Cloud Completion.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2024"
+        },
+        {
+            "name":"Ruirui Zhang",
+            "photoUrl":"./photos/2024/Ruirui Zhang.jpg",
+            "introduction":"Research Area: Text to Image Generation.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2024"
+        },
+        {
+            "name":"Shuhan Pan",
+            "photoUrl":"./photos/2024/Shuhan Pan.jpg",
+            "introduction":"Research Area: Text to Video Generation.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2024"
+        },
+        {
+            "name":"Zhengkai Zhao",
+            "photoUrl":"./photos/2024/Zhengkai Zhao.jpg",
+            "introduction":"Research Area: Low-Light Image Enhancement.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2024"
+        },
 
     ],
     "Alumni":[
