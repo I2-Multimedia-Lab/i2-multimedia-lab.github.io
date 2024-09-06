@@ -94,6 +94,14 @@ members = {
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2022"
         },
+        {
+            "name":"Baowei Zhuang",
+            "photoUrl":"./photos/2024/Baowei Zhuang.jpg",
+            "introduction":"Research Area: Text to 3D Generation.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2024"
+        },
+
     ],
     "Alumni":[
         {
