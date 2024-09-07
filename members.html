@@ -282,6 +282,15 @@ Js写入 -- Members
 		}
 		$('#curStuTab').html(content)
 
+		
+		// Co-supervised Students
+		content = ''
+		for (i in members['Co-supervised Students']) {
+			m = members['Student'][i]
+			content += generateProfile(m['name'], m['photoUrl'], m['introduction'], m['footnote'], m['footnote2'])
+		}
+		$('#CoStuTab').html(content)
+
 		// Alu
 		content = ''
 		for (i in members['Alumni']) {
