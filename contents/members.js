@@ -140,7 +140,7 @@ members = {
         "Co-supervised Students":[
         {
             "name":"Jianyu Zhao",
-            "photoUrl":"./photos/2020/Jianyu Zhao.jpg",
+            "photoUrl":"./photos/2024/Jianyu Zhao.jpg",
             "introduction":"Research Area: Text/Image to Video Generation and AIGC.",
             "footnote":"PhD Student",
             "footnote2":"Year of Attendance: 2024"
