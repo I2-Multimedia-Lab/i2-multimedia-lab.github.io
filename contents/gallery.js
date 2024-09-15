@@ -11,6 +11,11 @@
 // 直至所有图片放完为止
 
 gallery = [
+    {
+        photo: './photos/gallery/teacher_day_24.jpg',
+        labels:['2024-09-10', '2024 teacher's day', 'NUAA'],
+        thumbnail:'./photos/gallery/teacher_day_24.jpg',
+    }, // don't forget this comma
         {
         photo: './photos/gallery/2024_IJCAI_JEJU.png',
         labels:['2024-08-05', 'IJCAI reception', 'JEJU'],
