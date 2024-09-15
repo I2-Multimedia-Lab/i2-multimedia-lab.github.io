@@ -12,9 +12,9 @@
 
 gallery = [
     {
-        photo: './photos/gallery/teacher_day_24.jpg',
+        photo: './photos/gallery/Teacher_day_24.jpg',
         labels:['2024-09-10', '2024 teacher's day', 'NUAA'],
-        thumbnail:'./photos/gallery/teacher_day_24.jpg',
+        thumbnail:'./photos/gallery/Teacher_day_24.jpg',
     }, // don't forget this comma
         {
         photo: './photos/gallery/2024_IJCAI_JEJU.png',
