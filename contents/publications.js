@@ -7,6 +7,13 @@
 // },
 
 publications = [
+            {
+        'title': 'jing Xu, Wentao Shi, Pan Gao, Qizhu Li,  Zhengwei Wang. 2024. "MUSTER: A Multi-Scale Transformer-Based Decoder for Semantic Segmentation," in IEEE Transactions on Emerging Topics in Computational Intelligence',
+        'year':2024,
+        'paperlink':'https://ieeexplore.ieee.org/abstract/document/10669920',
+        'arxivlink': 'https://arxiv.org/abs/2211.13928',
+        'codelink':'https://github.com/shiwt03/MUSTER',
+      }, 
       {
         'title': 'Zihao Li, Pan Gao, Kang You, Chuan Yan, Manoranjan Paul. 2024. "Global Attention-Guided Dual-Domain Point Cloud Feature Learning for Classification and Segmentation," in IEEE Transactions on Artificial Intelligence',
         'year':2024,
