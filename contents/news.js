@@ -6,22 +6,28 @@
 // }
 
 news = [
+  {
+        'title':'One paper accepted by NeurIPS 2024!',
+        'date':'2024-09-26',
+        'newbrand':true,
+        'content':'<p> Congrats to Chenyi for the acceptance of a paper by NeurIPS 2024. NeurIPS is a top-ranked conference in the fields of machine learning, computer vision, and artificial intelligence. NeurIPS was founded in 1987 and is now a multi-track interdisciplinary annual meeting that includes invited talks, demonstrations, symposia, and oral and poster presentations of refereed papers. Along with the conference is a professional exposition focusing on machine learning in practice, a series of tutorials, and topical workshops that provide a less formal setting for the exchange of ideas. It will be held in Vancouver this December. :) </p>',
+    },
     {
         'title':'Two papers accepted by IJCAI 2024!',
         'date':'2024-04-20',
-        'newbrand':true,
+        'newbrand':false,
         'content':'<p>Our paper "Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes" and "Unified Unsupervised Salient Object Detection via Knowledge Transfer" are accpected by International Joint Conference on Artificial Intelligence (IJCAI) 2024. Congrats to Kang You and Yao Yuan!</p>',
     },
     {
         'title':'Two papers accepted by CVPR 2024!',
         'date':'2024-02-27',
-        'newbrand':true,
+        'newbrand':false,
         'content':'<p>Our paper "CDFormer: When Degradation Prediction Embraces  Diffusion Model for Blind Image Super-Resolution" and "Puff-Net: Efficient Style Transfer with Pure Content and Style Feature Fusion Network" are accpected by Conference on Computer Vision and Pattern Recognition (CVPR) 2024. Congrats to Qingguo Liu, Chenyi Zhuang, and Sizhe Zheng! </p>',
     },
     {
         'title':'One paper accepted by IEEE Trans. Multimedia!',
         'date':'2024-02-13',
-        'newbrand':true,
+        'newbrand':false,
         'content':'<p>Congratulations to Qingguo Liu for the acceptance of a paper by IEEE Trans. Multimedia. This paper proposed a degradation-aware self-attention based Transformer for blind image super-resolution. It addresses the critical problem in blind SR that how to make the network adaptive to unknow image degradation. It designs a degradation-oriented Transformer for image reconstruction, which also are the first time to introduce Transformer architecture to blind SR. The experiments are tested on two scenarios, i.e., degradation process with isotropic Gaussian kernels and anisotropic Gaussian kernels and noises. Congratulations again to Qinggguo for the amazing achievement!</p>',
     },
     {
