@@ -7,6 +7,20 @@
 // },
 
 publications = [
+        {
+        'title': 'Ying Hu, Chenyi Zhuang, Pan Gao. 2024. "DiffuseST: Unleashing the Capability of the Diffusion Model for Style Transfer," in ACM MM Asia',
+        'year':2024,
+        'paperlink':'',
+        'arxivlink': '',
+        'codelink':'',
+      },
+ {
+        'title': 'Chenyi Zhuang, Ying Hu, Pan Gao. 2024. "Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function," in NeurIPS',
+        'year':2024,
+        'paperlink':'',
+        'arxivlink': 'https://arxiv.org/abs/2409.19967',
+        'codelink':'https://github.com/I2-Multimedia-Lab/Magnet',
+      },
             {
         'title': 'jing Xu, Wentao Shi, Pan Gao, Qizhu Li,  Zhengwei Wang. 2024. "MUSTER: A Multi-Scale Transformer-Based Decoder for Semantic Segmentation," in IEEE Transactions on Emerging Topics in Computational Intelligence',
         'year':2024,
