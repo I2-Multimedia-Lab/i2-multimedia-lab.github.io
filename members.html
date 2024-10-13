@@ -154,6 +154,7 @@ MAIN
 				<h5 class="font-weight-bold spanborder">
 					<span class="tabswitcher mr-4 active" aim="facMemTab">Faculty</span>
 					<span class="tabswitcher mr-4" aim="curStuTab">Student</span>
+					<span class="tabswitcher mr-4" aim="CoStuTab">Co-Supervised Student</span>
 					<span class="tabswitcher mr-4" aim="aluTab">Alumni</span>
 					<span class="tabswitcher mr-4" aim="otherTab">Other</span>
 				</h5>
@@ -182,6 +183,7 @@ MAIN
 				</div>
 				<div class="mb-2 tab" id="otherTab"></div>
 				<div class="mb-2 tab" id="curStuTab"></div>
+				<div class="mb-2 tab" id="CoStuTab"></div>
 				<div class="mb-2 tab" id="aluTab"></div>
 			</div>
 		</div>
@@ -286,7 +288,7 @@ Js写入 -- Members
 		// Co-supervised Students
 		content = ''
 		for (i in members['Co-supervised Students']) {
-			m = members['Student'][i]
+			m = members['Co-supervised Students'][i]
 			content += generateProfile(m['name'], m['photoUrl'], m['introduction'], m['footnote'], m['footnote2'])
 		}
 		$('#CoStuTab').html(content)
