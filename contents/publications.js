@@ -7,12 +7,19 @@
 // },
 
 publications = [
+   {
+        'title': 'Kai Liu, Kang You, Pan Gao, Manoranjan Paul. 2024. "Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds," in IEEE Trans. Artificial Intelligence',
+        'year':2024,
+        'paperlink':'https://ieeexplore.ieee.org/abstract/document/10737030',
+        'arxivlink': 'https://arxiv.org/abs/2410.15007',
+        'codelink':'https://github.com/I2-Multimedia-Lab/DiffuseST',
+      },
         {
         'title': 'Ying Hu, Chenyi Zhuang, Pan Gao. 2024. "DiffuseST: Unleashing the Capability of the Diffusion Model for Style Transfer," in ACM MM Asia',
         'year':2024,
         'paperlink':'',
-        'arxivlink': '',
-        'codelink':'',
+        'arxivlink': 'https://arxiv.org/abs/2410.15007',
+        'codelink':'https://github.com/I2-Multimedia-Lab/DiffuseST',
       },
  {
         'title': 'Chenyi Zhuang, Ying Hu, Pan Gao. 2024. "Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function," in NeurIPS',
