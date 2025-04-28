@@ -7,6 +7,7 @@
 // },
 
 publications = [
+   {
    'title': 'Yao Yuan, Pan Gao, Qun Dai, Jie Qin, Wei Xiang. 2025. "Uncertainty Guided Refinement for Fine-Grained Salient Object Detection," in IEEE Trans Image Processing',
         'year':2025,
         'paperlink':'https://ieeexplore.ieee.org/document/10960487',
@@ -19,24 +20,28 @@ publications = [
         'arxivlink': '',
         'codelink':'https://github.com/I2-Multimedia-Lab/CLIP-SSD',
       },
+   {
 'title': 'Chang Xie, Chengyi Zhuang, Pan Gao. 2025. "PiCo: Enhancing Text-Image Alignment with Improved Noise Selection and Precise Mask Control in Diffusion Models," in ICME Workshops',
         'year':2025,
         'paperlink':'',
         'arxivlink': '',
         'codelink':'',
       },
+   {
    'title': 'Ying, Ying Hu, Pan Gao, Chuan Yan, Jie Qin. 2025. "StyTips: Towards High-Quality, Efficient and Controllable Style Transfer via Transformer Filtering Prompts," in Computational Visual Media',
         'year':2025,
         'paperlink':'',
         'arxivlink': '',
         'codelink':'',
       },
+   {
 'title': 'Li Yu, Hongchao Zhong, Longkun Zou, Ke Chen, Pan Gao. 2025. "Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation," in IEEE Transactions on Circuits and Systems for Video Technology',
         'year':2025,
         'paperlink':'https://ieeexplore.ieee.org/abstract/document/10820548',
         'arxivlink': 'https://arxiv.org/abs/2409.06956',
         'codelink':'',
       },
+   {
 'title': 'Emin Zerman, Pan Gao, Giuseppe Valenzise. 2025. " Editorial: Volumetric video processing," in Frontiers in Signal Processing',
         'year':2025,
         'paperlink':'https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1581192/full',
