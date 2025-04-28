@@ -14,6 +14,7 @@ publications = [
         'arxivlink': 'https://arxiv.org/abs/2504.09666',
         'codelink':'https://github.com/I2-Multimedia-Lab/UGRAN',
       },
+   {
 'title': 'Yuzhen Zhou, Pan Gao, Li Yu. 2025. "Spatial-Spectral Aware Learning with Deformable Affinity for Weakly Supervised Semantic Segmentation," in ICME',
         'year':2025,
         'paperlink':'',
