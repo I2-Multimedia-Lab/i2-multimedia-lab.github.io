@@ -7,9 +7,15 @@
 
 news = [
   {
+        'title':'One paper accepted by IEEE TIP!',
+        'date':'2025-04-10',
+        'newbrand':true,
+        'content':'<p> Congrats to our team member Yao Yuan for the acceptance of a paper by IEEE TIP 2025. This paper proposed a uncertainty guided refinement strategy for salient object detection, which yields the state-of-the-art performance across multiple datasets. </p>',
+    },
+   {
         'title':'One paper accepted by NeurIPS 2024!',
         'date':'2024-09-26',
-        'newbrand':true,
+        'newbrand':false,
         'content':'<p> Congrats to Chenyi for the acceptance of a paper by NeurIPS 2024. NeurIPS is a top-ranked conference in the fields of machine learning, computer vision, and artificial intelligence. NeurIPS was founded in 1987 and is now a multi-track interdisciplinary annual meeting that includes invited talks, demonstrations, symposia, and oral and poster presentations of refereed papers. Along with the conference is a professional exposition focusing on machine learning in practice, a series of tutorials, and topical workshops that provide a less formal setting for the exchange of ideas. It will be held in Vancouver this December. :) </p>',
     },
     {
