@@ -7,7 +7,7 @@
 // },
 
 publications = [
-   'title': 'Yao Yuan, Pan Gao, Qun Dai, Jie Qin, Wei Xiang. 2025. "Uncertainty Guided Refinement for Fine-Grained Salient Object Detection," in IEEE Trans. Image Processing',
+   'title': 'Yao Yuan, Pan Gao, Qun Dai, Jie Qin, Wei Xiang. 2025. "Uncertainty Guided Refinement for Fine-Grained Salient Object Detection," in IEEE Trans Image Processing',
         'year':2025,
         'paperlink':'https://ieeexplore.ieee.org/document/10960487',
         'arxivlink': 'https://arxiv.org/abs/2504.09666',
@@ -39,7 +39,7 @@ publications = [
       },
 'title': 'Emin Zerman, Pan Gao, Giuseppe Valenzise. 2025. " Editorial: Volumetric video processing," in Frontiers in Signal Processing',
         'year':2025,
-        'paperlink':'https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1581192/full ',
+        'paperlink':'https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1581192/full',
         'arxivlink': '',
         'codelink':'',
       },
