@@ -29,11 +29,11 @@ publications = [
         'codelink':'',
       },
    {
-   'title': 'Ying, Ying Hu, Pan Gao, Chuan Yan, Jie Qin. 2025. "StyTips: Towards High-Quality, Efficient and Controllable Style Transfer via Transformer Filtering Prompts," in Computational Visual Media',
+   'title': 'Ying Hu, Chenyi Zhuang, Pan Gao, Chuan Yan, Jie Qin. 2025. "StyTips: Towards High-Quality, Efficient and Controllable Style Transfer via Transformer Filtering Prompts," in Computational Visual Media',
         'year':2025,
         'paperlink':'',
         'arxivlink': '',
-        'codelink':'',
+        'codelink':'https://github.com/I2-Multimedia-Lab/StyTips',
       },
    {
 'title': 'Li Yu, Hongchao Zhong, Longkun Zou, Ke Chen, Pan Gao. 2025. "Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation," in IEEE Transactions on Circuits and Systems for Video Technology',
