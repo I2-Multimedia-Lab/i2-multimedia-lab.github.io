@@ -6,6 +6,12 @@
 // }
 
 news = [
+    {
+        'title':'Two paper accepted by ACM MM25!',
+        'date':'2025-07-06',
+        'newbrand':true,
+        'content':'<p> Congrats to our team member Yidan for her paper “AlignCAT: Visual-Linguistic Alignment of Category and Attribute for Weakly Supervised Visual Grounding” and Kanglin for his paper “HydraMamba: Multi-Head State Space Model for Global Point Cloud Learning” both accepted by ACM Multimedia 2025, which will be held in Dublin, Ireland, in October 2025. Paper and code will be made accessible soon. </p>',
+    },
   {
         'title':'One paper accepted by IEEE TIP!',
         'date':'2025-04-10',
