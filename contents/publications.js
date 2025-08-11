@@ -7,6 +7,20 @@
 // },
 
 publications = [
+         {
+   'title': 'Yidan Wang, Chenyi Zhuang, Wutao Liu, Pan Gao, Nicu Sebe. 2025. "AlignCAT: Visual-Linguistic Alignment of Category and Attributefor Weakly Supervised Visual Grounding," in ACM MM',
+        'year':2025,
+        'paperlink':'https://arxiv.org/abs/2508.03201',
+        'arxivlink': 'https://arxiv.org/abs/2508.03201',
+        'codelink':'https://github.com/I2-Multimedia-Lab/AlignCAT',
+      },
+      {
+   'title': 'Kanglin Qu, Pan Gao, Qun Dai, Yuanhao Sun. 2025. "HydraMamba: Multi-Head State Space Model for Global Point Cloud Learning," in ACM MM',
+        'year':2025,
+        'paperlink':'https://arxiv.org/abs/2507.19778',
+        'arxivlink': 'https://arxiv.org/abs/2507.19778',
+        'codelink':'https://github.com/Point-Cloud-Learning/HydraMamba',
+      },
    {
    'title': 'Yao Yuan, Pan Gao, Qun Dai, Jie Qin, Wei Xiang. 2025. "Uncertainty Guided Refinement for Fine-Grained Salient Object Detection," in IEEE Trans Image Processing',
         'year':2025,
@@ -273,3 +287,4 @@ publications = [
         'codelink':'',
     },
 ]
+
