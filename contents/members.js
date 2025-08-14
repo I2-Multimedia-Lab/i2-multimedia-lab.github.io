@@ -11,7 +11,7 @@ members = {
         {
             "name":"Pan Gao",
             "photoUrl":"./photos/Pan Gao.jpg",
-            "introduction":"I am currently an Associate Professor at the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China. I received my PhD degree in Electronic Engineering from University of Southern Queensland, Toowoomba, Australia, luckily supervised by Prof. Wei Xiang and Prof. John Billingsley. During my PhD study, I spent two wonderful months as a visiting student at Charles Sturt University, Bathurst, Australia, working with Prof. Manoranjan Paul. My current research interests include Image Processing/Analysis, Deep Learning, Artificial Intelligence. I am currently serving as the editor member/associate editor of the journals: EURASIP Journal on Image and Video Processing, Scientific Reports, the guest editor of the journal of Frontier in Signal Processing, and the organizer of several workshops in these areas.",
+            "introduction":"I am currently a Full Professor at the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China. I received my PhD degree in Electronic Engineering from University of Southern Queensland, Toowoomba, Australia, luckily supervised by Prof. Wei Xiang and Prof. John Billingsley. During my PhD study, I spent two wonderful months as a visiting student at Charles Sturt University, Bathurst, Australia, working with Prof. Manoranjan Paul. My current research interests include Image Processing/Analysis, Deep Learning, Artificial Intelligence. I am currently serving as the editor member/associate editor of the journals: EURASIP Journal on Image and Video Processing, Scientific Reports, the guest editor of the journal of Frontier in Signal Processing, and the organizer of several workshops in these areas.",
             "footnote":"",
             "footnote2":""
         },
@@ -229,4 +229,5 @@ members = {
         },
     ],
 }
+
 
