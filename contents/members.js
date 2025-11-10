@@ -17,6 +17,48 @@ members = {
         },
     ],
     "Student":[        
+         {
+            "name":"Huangjie Cao",
+            "photoUrl":"./photos/2025/Huangjie Cao.jpg",
+            "introduction":"Research Area: Multimodal Visual Object Tracking.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2025"
+        },
+        {
+            "name":"Jiahao He",
+            "photoUrl":"./photos/2025/Jiahao He.jpg",
+            "introduction":"Research Area: 3D Reconstruction and Scene Understanding.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2025"
+        },
+        {
+            "name":"Pan Xiong",
+            "photoUrl":"./photos/2025/Pan Xiong.jpg",
+            "introduction":"Research Area: Low-level Vision.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2025"
+        },
+        {
+            "name":"Shutong Xiao",
+            "photoUrl":"./photos/2025/Shutong Xiao.jpg",
+            "introduction":"Research Area: Text to Image Generation.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2025"
+        },
+        {
+            "name":"Yuang Liu",
+            "photoUrl":"./photos/2025/Yuang Liu.jpg",
+            "introduction":"Research Area: Point Cloud Upsamping.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2025"
+        },
+        {
+            "name":"Yunchen Xiong",
+            "photoUrl":"./photos/2025/Yunchen Xiong.jpg",
+            "introduction":"Research Area: Image-based 3D Reconstruction.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2025"
+        },
         {
             "name":"Baowei Zhuang",
             "photoUrl":"./photos/2024/Baowei Zhuang.jpg",
@@ -101,41 +143,6 @@ members = {
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2023"
         },
-        {
-            "name":"Ying Hu",
-            "photoUrl":"./photos/2022/Ying Hu.jpg",
-            "introduction":"Research Area: Image Style Transfer and Deep Learning.",
-            "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2022"
-        },
-        {
-            "name":"Kai Liu",
-            "photoUrl":"./photos/2022/Kai Liu.jpg",
-            "introduction":"Research Area: Transformer-based Point Cloud Compression.",
-            "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2022"
-        },
-        {
-            "name":"Chenyi Zhuang",
-            "photoUrl":"./photos/2022/Chenyi Zhuang.jpg",
-            "introduction":"Research Area: Text-to-Image Synthesis and Few-shot Learning.",
-            "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2022"
-        },
-        {
-            "name":"Qingguo Liu",
-            "photoUrl":"./photos/2022/Qingguo Liu.jpg",
-            "introduction":"Research Area: Image Superresolution and Contrastive Learning.",
-            "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2022"
-        },
-        {
-            "name":"Yao Yuan",
-            "photoUrl":"./photos/2022/Yao Yuan.jpg",
-            "introduction":"Research Area: Salient Object Detection and Saliency Prediction.",
-            "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2022"
-        },
     ],
         "Co-supervised Students":[
         {
@@ -148,6 +155,41 @@ members = {
  
     ],
     "Alumni":[
+         {
+            "name":"Ying Hu",
+            "photoUrl":"./photos/2022/Ying Hu.jpg",
+            "introduction":"Research Area: Image Style Transfer and Deep Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2025"
+        },
+        {
+            "name":"Kai Liu",
+            "photoUrl":"./photos/2022/Kai Liu.jpg",
+            "introduction":"Research Area: Transformer-based Point Cloud Compression.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2025"
+        },
+        {
+            "name":"Chenyi Zhuang",
+            "photoUrl":"./photos/2022/Chenyi Zhuang.jpg",
+            "introduction":"Research Area: Text-to-Image Synthesis and Few-shot Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2025"
+        },
+        {
+            "name":"Qingguo Liu",
+            "photoUrl":"./photos/2022/Qingguo Liu.jpg",
+            "introduction":"Research Area: Image Superresolution and Contrastive Learning.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2025"
+        },
+        {
+            "name":"Yao Yuan",
+            "photoUrl":"./photos/2022/Yao Yuan.jpg",
+            "introduction":"Research Area: Salient Object Detection and Saliency Prediction.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2025"
+        },
         {
             "name":"Shanshan Li",
             "photoUrl":"./photos/2021/Shanshan Li.jpg",
@@ -229,5 +271,6 @@ members = {
         },
     ],
 }
+
 
 
