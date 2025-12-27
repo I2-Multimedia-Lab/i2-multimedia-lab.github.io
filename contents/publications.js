@@ -8,6 +8,60 @@
 
 publications = [
          {
+'title': 'Lirui Zhang, Zhengkai Zhao, Zhi Zuo, Pan Gao, Jie Qin. 2026. "Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion," in AAAI',
+        'year':2026,
+        'paperlink':' https://arxiv.org/abs/2511.16161',
+        'arxivlink': ' https://arxiv.org/abs/2511.16161',
+        'codelink':' https://github.com/I2-Multimedia-Lab/Simba',
+      },
+{
+'title': 'Kanglin Qu, Pan Gao, Qun Dai, Zhanzhi Ye, Rui Ye, Yuanhao Sun. 2026. "CloudMamba: Grouped Selective State Spaces for Point Cloud Analysis," in AAAI',
+        'year':2026,
+        'paperlink':' https://arxiv.org/abs/2511.07823',
+        'arxivlink': ' https://arxiv.org/abs/2511.07823',
+        'codelink':' https://github.com/Point-Cloud-Learning/CloudMamba',
+      },
+{
+'title': 'Jing Xu, Wentao Shi, Sheng Ren, Lijuan Zhang, Weikai Yang, Pan Gao, Jie Qin. 2025. "Fast Wrong-Way Cycling Detection in CCTV Videos: Sparse Sampling Is All You Need," in IEEE Transactions on Intelligent Transportation Systems',
+        'year':2025,
+        'paperlink':' https://ieeexplore.ieee.org/document/11306249',
+        'arxivlink': ' https://ieeexplore.ieee.org/document/11306249',
+        'codelink':' https://github.com/Point-Cloud-Learning/CloudMamba',
+      },
+
+{
+'title': 'Kanglin Qu, Pan Gao, Qun Dai, Lijuan Zhang, Yuanhao Sun, Xu Hua, Manoranjan Paul. 2025. "PillarCoder: An Efficient and Lightweight Attention Network With Pillarization for Point Cloud Learning," in IEEE Transactions on Emerging Topics in Computational Intelligence',
+        'year':2025,
+        'paperlink':' https://ieeexplore.ieee.org/abstract/document/11164888',
+        'arxivlink': ' ',
+        'codelink':' https://github.com/Point-Cloud-Learning/Pillar-Coder',
+      },
+
+{
+'title': 'Zhi Zuo, Pan Gao, Manoranjan Paul. 2025. "Point Long-Term Locality-Aware Transformer for Point Cloud Video Understanding," in ACM MM Asia Workshop',
+        'year':2025,
+        'paperlink':' https://dl.acm.org/doi/abs/10.1145/3769748.3773341',
+        'arxivlink': ' ',
+        'codelink':' https://github.com/I2-Multimedia-Lab/PL2-Transformer',
+      },
+{
+'title': 'Bing Han, Yuhua Huang, Pan Gao. 2025. "HyperDiff: Hypergraph Guided Diffusion Model for 3D Human Pose Estimation," in MMSP',
+        'year':2025,
+        'paperlink':' ',
+        'arxivlink': 'https://arxiv.org/abs/2508.14431 ',
+        'codelink':' https://github.com/IHENL/HyperDiff',
+      },
+
+{
+'title': 'Wutao Liu, Yao Yuan, Pan Gao, Zheng Lin, Jie Qin. 2025. "ACGFormer: Attribute Classification Guided Transformer for Camouflaged Object Detection," in PRCV',
+        'year':2025,
+        'paperlink':' ',
+        'arxivlink': '',
+        'codelink':' https://github.com/Lwt-diamond/ACGFormer',
+      },
+
+
+         {
    'title': 'Yidan Wang, Chenyi Zhuang, Wutao Liu, Pan Gao, Nicu Sebe. 2025. "AlignCAT: Visual-Linguistic Alignment of Category and Attributefor Weakly Supervised Visual Grounding," in ACM MM',
         'year':2025,
         'paperlink':'https://arxiv.org/abs/2508.03201',
@@ -287,4 +341,5 @@ publications = [
         'codelink':'',
     },
 ]
+
 
