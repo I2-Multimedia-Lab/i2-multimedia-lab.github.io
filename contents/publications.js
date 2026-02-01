@@ -7,6 +7,22 @@
 // },
 
 publications = [
+      {
+'title': 'Kanglin Qu, Pan Gao, Qun Dai, Yuanhao Sun. 2026. "Point-Focused Attention Meets Context-Scan State Space: Robust Biological Visual Perception for Point Cloud Representation," in ICLR',
+        'year':2026,
+        'paperlink':' https://openreview.net/forum?id=KQPoMbxInu',
+        'arxivlink': ' https://openreview.net/forum?id=KQPoMbxInu',
+        'codelink':' ',
+      },
+
+
+ {
+'title': 'Zhengkai Zhao, Longmi Gao, Pan Gao, Jie Qin. 2026. "DP-Retinex: Dual-Prior Guided Low-Light Image Enhancement with YUV-Domain Reflectance-Illumination Decomposition," in IEEE TCSVT',
+        'year':2026,
+        'paperlink':' https://ieeexplore.ieee.org/document/11339941',
+        'arxivlink': ' https://ieeexplore.ieee.org/document/11339941',
+        'codelink':' https://github.com/I2-Multimedia-Lab/DP-Retinex',
+      },
          {
 'title': 'Lirui Zhang, Zhengkai Zhao, Zhi Zuo, Pan Gao, Jie Qin. 2026. "Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion," in AAAI',
         'year':2026,
@@ -341,5 +357,6 @@ publications = [
         'codelink':'',
     },
 ]
+
 
 
