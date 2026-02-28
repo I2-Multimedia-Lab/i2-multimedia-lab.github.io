@@ -6,6 +6,12 @@
 // }
 
 news = [
+        {
+        'title':'One paper accepted by CVPR 2026!',
+        'date':'2026-02-28',
+        'newbrand':true,
+        'content':'<p> Our paper “VEMamba: Efficient Isotropic Reconstruction of Volume Electron Microscopy with Axial-Lateral Consistent Mamba” has been accepted by CVPR 2026. Stay tuned for more details—coming soon! </p>',
+    },
 {
         'title':'One paper accepted by ICLR 2026!',
         'date':'2026-02-01',
@@ -155,5 +161,6 @@ news = [
         'content':"<p>Congratulations on Cheng Zhang's research, which was received by workshop on Adversarial Robustness In the Real World of IEEE Int. Conf. Computer Vision (ICCV2021). This is a great result, as the paper has undergone several rounds of modifications and has been accepted at last. Congratulations to Cheng Zhang, very well deserved!</p><p>ABSTRACT: Recent studies have shown that neural network (NN) based image classifiers are highly vulnerable to adversarial examples, which poses a threat to security-sensitive image recognition task. Prior work has shown that JPEG compression can combat the drop in classification accuracy on adversarial examples to some extent. But, as the compression ratio increases, traditional JPEG compression is insufficient to defend those attacks but can cause an abrupt accuracy decline to the benign images. In this paper, with the aim of fully filtering the adversarial perturbations, we firstly make modifications to traditional JPEG compression algorithm which becomes more favorable for NN. Specifically, based on an analysis of the frequency coefficient, we design a NN-favored quantization table for compression. Considering compression as a data augmentation strategy, we then combine our model-agnostic preprocess with noisy training. We fine-tune the pre-trained model by training with images encoded at different compression levels, thus generating multiple classifiers. Finally, since lower (higher) compression ratio can remove both perturbations and original features slightly (aggressively), we use these trained multiple models for model ensemble. The majority vote of the ensemble of models is adopted as final predictions. Experiments results show our method can improve defense efficiency while maintaining original accuracy.</p>",
     },
 ]
+
 
 
