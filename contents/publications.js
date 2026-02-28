@@ -7,12 +7,14 @@
 // },
 
 publications = [
+      {
       'title': 'Longmi Gao, Pan Gao. 2026. "VEMamba: Efficient Isotropic Reconstruction of Volume Electron Microscopy with Axial-Lateral Consistent Mamba," in CVPR',
         'year':2026,
         'paperlink':' ',
         'arxivlink':' ',
         'codelink':'https://github.com/I2-Multimedia-Lab/VEMamba',
       },
+      
       {
 'title': 'Kanglin Qu, Pan Gao, Qun Dai, Yuanhao Sun. 2026. "Point-Focused Attention Meets Context-Scan State Space: Robust Biological Visual Perception for Point Cloud Representation," in ICLR',
         'year':2026,
@@ -363,6 +365,7 @@ publications = [
         'codelink':'',
     },
 ]
+
 
 
 
