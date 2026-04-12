@@ -7,6 +7,14 @@
 // },
 
 publications = [
+            {
+      'title': 'Hongbo Fang, Lingxuan Li, Lin Si, Pan Gao, Moncef Gabbouj. 2026. "The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report," in CVPRW',
+        'year':2026,
+        'paperlink':'https://arxiv.org/abs/2604.03198 ',
+        'arxivlink':' ',
+        'codelink':'https://github.com/Amazingren/NTIRE2026_ESR',
+      },
+      
       {
       'title': 'Longmi Gao, Pan Gao. 2026. "VEMamba: Efficient Isotropic Reconstruction of Volume Electron Microscopy with Axial-Lateral Consistent Mamba," in CVPR',
         'year':2026,
