@@ -10,8 +10,8 @@ publications = [
             {
       'title': 'Hongbo Fang, Lingxuan Li, Lin Si, Pan Gao, Moncef Gabbouj. 2026. "The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report," in CVPRW',
         'year':2026,
-        'paperlink':'https://arxiv.org/abs/2604.03198 ',
-        'arxivlink':' ',
+        'paperlink':'https://arxiv.org/abs/2604.03198',
+        'arxivlink':'https://arxiv.org/abs/2604.03198',
         'codelink':'https://github.com/Amazingren/NTIRE2026_ESR',
       },
       
