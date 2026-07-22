@@ -18,7 +18,7 @@ publications = [
       {
       'title': 'Longmi Gao, Pan Gao. 2026. "VEMamba: Efficient Isotropic Reconstruction of Volume Electron Microscopy with Axial-Lateral Consistent Mamba," in CVPR',
         'year':2026,
-        'paperlink':' ',
+        'paperlink':' https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_VEMamba_Efficient_Isotropic_Reconstruction_of_Volume_Electron_Microscopy_with_Axial-Lateral_CVPR_2026_paper.pdf',
         'arxivlink':' ',
         'codelink':'https://github.com/I2-Multimedia-Lab/VEMamba',
       },
@@ -28,7 +28,7 @@ publications = [
         'year':2026,
         'paperlink':' https://openreview.net/forum?id=KQPoMbxInu',
         'arxivlink': ' https://openreview.net/forum?id=KQPoMbxInu',
-        'codelink':' ',
+        'codelink':'https://github.com/Point-Cloud-Learning/PointLearner ',
       },
 
 
