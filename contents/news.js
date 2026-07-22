@@ -7,6 +7,12 @@
 
 news = [
         {
+        'title':'One paper accepted by ACM MM 2026!',
+        'date':'2026-07-10',
+        'newbrand':true,
+        'content':'<p> Our paper “MultiCompose: Multi-Concept Personalized Composition with Per-Subject Attribute Binding” has been accepted by ACM MM 26. Congrats to our team members Ruirui Zhang and Zhengkai Zhao! </p>',
+    },
+        {
         'title':'One paper accepted by CVPR 2026!',
         'date':'2026-02-28',
         'newbrand':true,
@@ -15,7 +21,7 @@ news = [
 {
         'title':'One paper accepted by ICLR 2026!',
         'date':'2026-02-01',
-        'newbrand':true,
+        'newbrand':false,
         'content':'<p> Our paper “Point-Focused Attention Meets Context-Scan State Space: Robust Biological Visual Perception for Point Cloud Representation” has been accepted by ICLR 2026. Stay tuned for more details—coming soon! </p>',
     },
 
