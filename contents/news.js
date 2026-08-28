@@ -6,6 +6,12 @@
 // }
 
 news = [
+    {
+        'title':'One paper accepted by IJCV!',
+        'date':'2026-08-28',
+        'newbrand':true,
+        'content':'<p> Congratulations to our team member Zhi Zuo on the acceptance of his paper, “Disco4D: Towards Prior-Free Motion Representation Learning for Point Cloud Videos via Self-Disentangled Contrastive Pre-training,” by the International Journal of Computer Vision (IJCV), a top-tier international journal in computer vision. Well done! </p>',
+    },
         {
         'title':'One paper accepted by ACM MM 2026!',
         'date':'2026-07-10',
