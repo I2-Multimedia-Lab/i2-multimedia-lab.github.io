@@ -8,7 +8,7 @@
 
 publications = [
             {
-      'title': 'Ruirui Zhang, Zhengkai Zhao, Pan Gao. 2026. "MultiCompose: Multi-Concept Personalized Composition with Per-Subject Attribute Binding," arXiv preprint',
+      'title': 'Ruirui Zhang, Zhengkai Zhao, Pan Gao. 2026. "MultiCompose: Multi-Concept Personalized Composition with Per-Subject Attribute Binding," in ACM MM',
         'year':2026,
         'paperlink':'https://arxiv.org/abs/2608.03708',
         'arxivlink':'https://arxiv.org/abs/2608.03708',
