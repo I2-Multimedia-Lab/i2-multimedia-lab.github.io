@@ -8,6 +8,13 @@
 
 publications = [
             {
+      'title': 'Caixun Luo, Pan Gao, Qun Dai, Xiaofeng Zhu. 2026. "Multi-view clustering via cross-view fusion with alignment and uniformity constraints," in Pattern Recognition',
+        'year':2026,
+        'paperlink':'https://www.sciencedirect.com/science/article/abs/pii/S0031320326015748',
+        'arxivlink':'',
+        'codelink':'https://github.com/I2-Multimedia-Lab/AUMVC',
+      },
+            {
       'title': 'Ruirui Zhang, Zhengkai Zhao, Pan Gao. 2026. "MultiCompose: Multi-Concept Personalized Composition with Per-Subject Attribute Binding," in ACM MM',
         'year':2026,
         'paperlink':'https://arxiv.org/abs/2608.03708',
