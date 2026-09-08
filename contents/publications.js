@@ -8,6 +8,13 @@
 
 publications = [
             {
+      'title': 'Zhi Zuo, Chenyi Zhuang, Pan Gao, Jie Qin, Hao Feng, Nicu Sebe. 2026. "Disco4D: Towards Prior-Free Motion Representation Learning for Point Cloud Videos Via Self-Disentangled Contrastive Pre-Training," in International Journal of Computer Vision',
+        'year':2026,
+        'paperlink':'https://link.springer.com/article/10.1007/s11263-026-03008-6',
+        'arxivlink':'',
+        'codelink':'https://github.com/occlete/Disco4D',
+      },
+            {
       'title': 'Caixun Luo, Pan Gao, Qun Dai, Xiaofeng Zhu. 2026. "Multi-view clustering via cross-view fusion with alignment and uniformity constraints," in Pattern Recognition',
         'year':2026,
         'paperlink':'https://www.sciencedirect.com/science/article/abs/pii/S0031320326015748',
