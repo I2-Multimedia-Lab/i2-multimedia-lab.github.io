@@ -7,6 +7,12 @@
 
 news = [
     {
+        'title':'Prof. Gao Invited to Serve as AE for TMM',
+        'date':'2026-09-19',
+        'newbrand':true,
+        'content':'<p>Prof. Gao has been invited to serve as an Associate Editor for IEEE Transactions on Multimedia (TMM) — a significant milestone for the I2ML lab and a well-deserved recognition of Prof. Gao\'s expertise and contributions to the multimedia research community.</p><p>This achievement is all the more meaningful given I2ML\'s strong track record with the journal. To date, I2ML has published 7 papers in TMM, one of which was selected by the IEEE Signal Processing Community to be featured as a webinar — a remarkable honor that speaks to the impact and quality of the lab\'s work.</p><p>More broadly, I2ML has published more than 100 papers in prestigious journals such as IJCV, TIP, and TMM, as well as top-tier conferences including CVPR, ICLR, and NeurIPS. This latest milestone reflects the lab\'s sustained excellence and growing influence in computer vision, multimedia, and machine learning.</p>',
+    },
+    {
         'title':'One paper accepted by IJCV!',
         'date':'2026-08-28',
         'newbrand':true,
