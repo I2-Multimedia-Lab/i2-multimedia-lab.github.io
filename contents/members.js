@@ -16,7 +16,70 @@ members = {
             "footnote2":""
         },
     ],
-    "Student":[        
+    "Student":[
+        {
+            "name":"Chenrui Zhao",
+            "photoUrl":"./photos/2026/Chenrui Zhao.jpg",
+            "introduction":"Research Area: Medical Vision-Language Models.",
+            "footnote":"PhD Student",
+            "footnote2":"Year of Attendance: 2026"
+        },
+        {
+            "name":"Qiyuan Han",
+            "photoUrl":"./photos/2026/Qiyuan Han.jpg",
+            "introduction":"Research Area: Diffusion-Based Industrial Anomaly Detection.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2026"
+        },
+        {
+            "name":"Yidan Ni",
+            "photoUrl":"./photos/2026/Yidan Ni.jpg",
+            "introduction":"Research Area: Image Generation.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2026"
+        },
+        {
+            "name":"Pengyu Shan",
+            "photoUrl":"./photos/2026/Pengyu Shan.jpg",
+            "introduction":"Research Area: Point Cloud Generation.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2026"
+        },
+        {
+            "name":"Yuchao Wang",
+            "photoUrl":"./photos/2026/Yuchao Wang.jpg",
+            "introduction":"Research Area: Industrial Anomaly Detection.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2026"
+        },
+        // {
+        //     "name":"Weifeng Wu",
+        //     "photoUrl":"./photos/2026/Weifeng Wu.jpg",
+        //     "introduction":"Research Area: Industrial Anomaly Detection.",
+        //     "footnote":"Master Student",
+        //     "footnote2":"Year of Attendance: 2026"
+        // },
+        {
+            "name":"Dongkai Xu",
+            "photoUrl":"./photos/2026/Dongkai Xu.jpg",
+            "introduction":"Research Area: Real-World Image Super-Resolution.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2026"
+        },
+        {
+            "name":"Zixian Yao",
+            "photoUrl":"./photos/2026/Zixian Yao.jpg",
+            "introduction":"Research Area: Industrial Defect Detection.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2026"
+        },
+        {
+            "name":"Kai Zhou",
+            "photoUrl":"./photos/2026/Kai Zhou.jpg",
+            "introduction":"Research Area: Image-Based 3D Reconstruction.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2026"
+        },
          {
             "name":"Huangjie Cao",
             "photoUrl":"./photos/2025/Huangjie Cao.jpg",
@@ -101,50 +164,15 @@ members = {
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2024"
         },
-        {
-            "name":"Yuzhen Zhou",
-            "photoUrl":"./photos/2023/Yuzhen Zhou.jpg",
-            "introduction":"Research Area: Weakly-Supervised Semantic Segmentation.",
-            "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2023"
-        },
-        {
-            "name":"Wutao Liu",
-            "photoUrl":"./photos/2023/Wutao Liu.jpg",
-            "introduction":"Research Area: Camouflaged Object Detection (COD).",
-            "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2023"
-        },
-        {
-            "name":"Chang Xie",
-            "photoUrl":"./photos/2023/Chang Xie.jpg",
-            "introduction":"Research Area: Text to Image Generation.",
-            "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2023"
-        },
-        {
-            "name":"Zhi Zuo",
-            "photoUrl":"./photos/2023/Zhi Zuo.jpg",
-            "introduction":"Research Area: Point Cloud Video Analysis.",
-            "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2023"
-        },
-        {
-            "name":"Bing Han",
-            "photoUrl":"./photos/2023/Bing Han.jpg",
-            "introduction":"Research Area: 3D Human Pose Estimation.",
-            "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2023"
-        },
-        {
-            "name":"Yidan Wang",
-            "photoUrl":"./photos/2023/Yidan Wang.jpg",
-            "introduction":"Research Area: Visual Grounding.",
-            "footnote":"Master Student",
-            "footnote2":"Year of Attendance: 2023"
-        },
     ],
         "Co-supervised Students":[
+         {
+            "name":"Chaohui Guo",
+            "photoUrl":"./photos/2026/Chaohui Guo.jpg",
+            "introduction":"Research Area: Vision-and-Language Navigation.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2026"
+        },
         {
             "name":"Jianyu Zhao",
             "photoUrl":"./photos/2024/Jianyu Zhao.jpg",
@@ -155,6 +183,48 @@ members = {
  
     ],
     "Alumni":[
+        {
+        "name":"Yuzhen Zhou",
+        "photoUrl":"./photos/2023/Yuzhen Zhou.jpg",
+        "introduction":"Research Area: Weakly-Supervised Semantic Segmentation.",
+        "footnote":"Master Student",
+        "footnote2":"Year of Graduation: 2026"
+        },
+        {
+            "name":"Wutao Liu",
+            "photoUrl":"./photos/2023/Wutao Liu.jpg",
+            "introduction":"Research Area: Camouflaged Object Detection (COD).",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2026"
+        },
+        {
+            "name":"Chang Xie",
+            "photoUrl":"./photos/2023/Chang Xie.jpg",
+            "introduction":"Research Area: Text to Image Generation.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2026"
+        },
+        {
+            "name":"Zhi Zuo",
+            "photoUrl":"./photos/2023/Zhi Zuo.jpg",
+            "introduction":"Research Area: Point Cloud Video Analysis.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2026"
+        },
+        {
+            "name":"Bing Han",
+            "photoUrl":"./photos/2023/Bing Han.jpg",
+            "introduction":"Research Area: 3D Human Pose Estimation.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2026"
+        },
+        {
+            "name":"Yidan Wang",
+            "photoUrl":"./photos/2023/Yidan Wang.jpg",
+            "introduction":"Research Area: Visual Grounding.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Graduation: 2026"
+        },
          {
             "name":"Ying Hu",
             "photoUrl":"./photos/2022/Ying Hu.jpg",
