@@ -52,13 +52,13 @@ members = {
             "footnote":"Master Student",
             "footnote2":"Year of Attendance: 2026"
         },
-        // {
-        //     "name":"Weifeng Wu",
-        //     "photoUrl":"./photos/2026/Weifeng Wu.jpg",
-        //     "introduction":"Research Area: Industrial Anomaly Detection.",
-        //     "footnote":"Master Student",
-        //     "footnote2":"Year of Attendance: 2026"
-        // },
+        {
+            "name":"Weifeng Wu",
+            "photoUrl":"./photos/2026/Weifeng Wu.jpg",
+            "introduction":"Research Area: 3D Vision Language Action.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2026"
+        },
         {
             "name":"Dongkai Xu",
             "photoUrl":"./photos/2026/Dongkai Xu.jpg",
