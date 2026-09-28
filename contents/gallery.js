@@ -12,6 +12,11 @@
 
 gallery = [
     {
+        photo: './photos/gallery/group_2025.jpg',
+        labels:['2025-09-10', '2025 teacher day', 'NUAA'],
+        thumbnail:'./photos/gallery/group_2025.jpg',
+    }, // don't forget this comma
+    {
         photo: './photos/gallery/VALSE_2025.jpg',
         labels:['2025-06-07', '2025 VALSE', 'Zhuhai'],
         thumbnail:'./photos/gallery/VALSE_2025.jpg',
