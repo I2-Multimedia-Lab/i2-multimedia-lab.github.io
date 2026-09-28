@@ -7,6 +7,12 @@
 
 news = [
     {
+        'title':'One paper accepted by NeurIPS 2026!',
+        'date':'2026-09-28',
+        'newbrand':true,
+        'content':'<p> Congratulations to our team member Yuang Liu on the acceptance of the paper “ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling” by NeurIPS 2026, a top-tier conference in artificial intelligence. Well done! </p>',
+    },
+    {
         'title':'One paper accepted by IJCV!',
         'date':'2026-08-28',
         'newbrand':true,
