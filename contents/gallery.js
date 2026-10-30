@@ -12,6 +12,11 @@
 
 gallery = [
     {
+        photo: './photos/gallery/Valenzise_visit_2026.jpg',
+        labels:['2026-10-29', 'Prof. Valenzise visited I2ML', 'Nanjing'],
+        thumbnail:'./photos/gallery/Valenzise_visit_2026_lr.jpg',
+    }, // don't forget this comma
+    {
         photo: './photos/gallery/group_2025.jpg',
         labels:['2025-09-10', '2025 teacher day', 'NUAA'],
         thumbnail:'./photos/gallery/group_2025.jpg',
