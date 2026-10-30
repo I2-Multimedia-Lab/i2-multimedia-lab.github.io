@@ -8,6 +8,13 @@
 
 publications = [
             {
+      'title': 'Yuang Liu, Zhi Zuo, Zhengkai Zhao, Lirui Zhang, Pan Gao, Hao Feng, Zhengzhe Liu. 2026. "ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling," in NeurIPS',
+        'year':2026,
+        'paperlink':'https://arxiv.org/abs/2610.21190',
+        'arxivlink':'https://arxiv.org/abs/2610.21190',
+        'codelink':'https://github.com/I2-Multimedia-Lab/ControlFlow3D',
+      },
+            {
       'title': 'Zhi Zuo, Chenyi Zhuang, Pan Gao, Jie Qin, Hao Feng, Nicu Sebe. 2026. "Disco4D: Towards Prior-Free Motion Representation Learning for Point Cloud Videos Via Self-Disentangled Contrastive Pre-Training," in International Journal of Computer Vision',
         'year':2026,
         'paperlink':'https://link.springer.com/article/10.1007/s11263-026-03008-6',
