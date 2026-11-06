@@ -7,6 +7,12 @@
 
 news = [
     {
+        'title':'One paper accepted by TPAMI!',
+        'date':'2026-11-06',
+        'newbrand':true,
+        'content':'<p> Congratulations to our team members Bing Han and Chenyi Zhuang on the acceptance of their paper “MvP: Learning Motion Prior for Diffusion-Based 3D Human Pose Estimation” by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), a top-tier journal (impact factor 20.4). Well done! </p>',
+    },
+    {
         'title':'One paper accepted by NeurIPS 2026!',
         'date':'2026-09-28',
         'newbrand':true,
